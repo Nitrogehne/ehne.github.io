@@ -8,30 +8,21 @@ function load_file() {
     var obj = $(this);
     var url = obj.attr("data-url");
     $.ajax({
-      async : false,
+      async : false, // ajax를 동기방식으로 사용한다.
       url : url,
       success : function(rs) {
-        console.log("success", rs);
         obj.after(rs);
       },
       error : function() {
         obj.after("[File not found : " + url + "]");
       },
       complete : function() {
-          console.log("remove", i, count);
-        obj.remove();  
-        if (i + 1 === count) {
-            
-          //load_file();
-            console.log("complete", $(".load"), $(".load").length);
-        }
+        obj.remove();
       }
     });
-  }).promise().done(function() {    
-      console.log("promise");
-    if($(".load").length) {        
-          //load_file();
-            console.log($(".load"), $(".load").length);
+  }).promise().done(function() {
+    if(0 < $(".load").length) {
+      load_file();
     }
   });
 }
