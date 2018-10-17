@@ -1,0 +1,16 @@
+@charset "utf-8"
+
+* {
+  /* default color */
+  backgrond-color : #000;
+  color : #FFF;
+  
+  /* box */
+  border-width : 0 inherit #000;
+  box-sizing : border-box;
+  margin : 0;
+  padding : 0;
+  
+  /* etc */
+  line-height : 1.5;
+}
