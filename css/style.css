@@ -36,5 +36,8 @@ section {
   height : 1em;
 }
 .link ul {
+  border : 1px dotted #FFF;
+  margin : 1em auto;
+  padding : 1em;
   list-style: none;
 }
