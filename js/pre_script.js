@@ -3,7 +3,7 @@ $(function() {
 });
 
 function load_file() {
-  var count = $("element").length;
+  var count = $(".load").length;
   $(".load").each(function(i) {
     var obj = $(this);
     var url = obj.attr("data-url");
