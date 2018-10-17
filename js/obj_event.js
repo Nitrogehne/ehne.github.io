@@ -16,7 +16,7 @@ $(document).on("click", ".to_main", function() {
     }
   });
 }).on("ready", ".loading", function() {
-  console.log("ready");
+  console.log(".loading");
   var obj = $(this);
   var url = obj.attr("data-url");
   $.ajax({
