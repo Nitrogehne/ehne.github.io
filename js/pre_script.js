@@ -3,7 +3,8 @@ $(function() {
 });
 
 function load_file() {
-  $(".file").each(function() {
+  var count = $("element").length;
+  $(".file").each(function(i) {
     var obj = $(this);
     var file = obj.attr("data-file");
     $.ajax({
@@ -16,13 +17,22 @@ function load_file() {
         obj.after("[File not found : " + file + "]");
       },
       complete : function() {
-        obj.remove();
+        obj.remove();  
+          /*
+        if (i + 1 === count) {
+          //load_file();
+            console.log($(".file"), $(".file").length);
+        }
+        */
       }
     });
   }).promise().done(function() {    
-    if($(".file").length) {
-      //load_file();
-        console.log($(".file"), $(".file").length);
+      console.log("promise");
+    if($(".file").length) {          
+        if (i + 1 === count) {
+          //load_file();
+            console.log($(".file"), $(".file").length);
+        }
     }
   });
 }
