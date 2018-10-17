@@ -27,7 +27,14 @@ section {
   text-align: right;
 }
 
+.align_center {
+  align : center;
+}
+
 .link .icon {
   width : 1em;
   height : 1em;
+}
+.link ul {
+  list-style: none;
 }
