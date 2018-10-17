@@ -22,7 +22,7 @@ function load_file() {
   }).doen(function() {    
     if($(".file").length) {
       //load_file();
-        console.log($(".file"), $(".file").length));
-    })
+        console.log($(".file"), $(".file").length);
+    }
   });
 }
