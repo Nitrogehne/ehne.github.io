@@ -4,7 +4,7 @@ $(function() {
 
 function load_file() {
   var count = $(".load").length;
-  $(".load").each(function(i) {
+  $(".load").each(function() {
     var obj = $(this);
     var url = obj.attr("data-url");
     obj.append("<div style=text-align=center;font-size:3em>Loading...</div>");
