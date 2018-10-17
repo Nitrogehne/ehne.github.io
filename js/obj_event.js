@@ -2,15 +2,15 @@ $(document).on("click", ".to_main", function() {
   var obj = $(this);
   var url = obj.attr("data-url");
   var main = $("#main");
-  main.empty().append("Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...").append("<div style=text-align=center;font-size:3em>Loading...</div>");;
+  main.empty();
   $.ajax({
     async : false,
     url : url,
     success : function(rs) {
-      main.empty().append(rs);
+      main.append(rs);
     },
     error : function() {
-      main.empty().append("[File not found : " + url + "]");
+      main.append("[File not found : " + url + "]");
     },
     complete : function() {
       $("#main_menu a.current").removeClass("current");
