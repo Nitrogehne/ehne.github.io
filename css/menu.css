@@ -23,16 +23,16 @@ nav a {
 }
 
 #main_menu li a{
-  background: #222;
+  background: #111;
   color:#FFF;
   cursor : pointer;
   display:block;
-  font-weight:normal;
-  line-height:70px;
   margin:0px;
-  padding:0px 25px;
+  padding:0px;
+  font-weight : bold;
   text-align:center;
   text-decoration:none;
+  width : 200px;
 }
 
 #main_menu li a:not(data-url) {
@@ -40,8 +40,8 @@ nav a {
 }
 
 #main_menu li a.current {
-  font-weight : bold;
   color : #e7dbed;
+  background-color:#222;
 }
 
 #main_menu li a:hover, #main_menu ul li:hover a{
@@ -51,7 +51,6 @@ text-decoration:none;
 }
 
 #main_menu li ul{
-background: #222;
 display:none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
 height:auto;
 padding:0px;
