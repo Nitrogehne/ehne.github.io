@@ -40,4 +40,9 @@ section {
   margin : 1em auto;
   padding : 1em;
   list-style: none;
+  text-align: left;
+  display: inline-block
+}
+.link li {  
+  line-height: 2;
 }
