@@ -18,3 +18,10 @@
 body {
   padding : 1em;
 }
+
+#copyright {
+    border-top: 2px solid #FFF;
+    clear: both;
+    padding-right: 10px;
+    text-align: right;
+}
