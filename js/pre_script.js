@@ -11,12 +11,14 @@ function load_file() {
       async : false,
       url : url,
       success : function(rs) {
+        console.log("success", rs);
         obj.after(rs);
       },
       error : function() {
         obj.after("[File not found : " + url + "]");
       },
       complete : function() {
+          console.log("remove", i);
         obj.remove();  
         if (i + 1 === count) {
             
