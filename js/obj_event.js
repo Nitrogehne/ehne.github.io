@@ -16,6 +16,7 @@ $(document).on("click", ".to_main", function() {
     }
   });
 }).on("ready", ".loading", function() {
+  console.log("ready");
   var obj = $(this);
   var url = obj.attr("data-url");
   $.ajax({
