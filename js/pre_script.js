@@ -7,6 +7,7 @@ function load_file() {
   $(".load").each(function(i) {
     var obj = $(this);
     var url = obj.attr("data-url");
+    obj.append("<div style=text-align=center;font-size:3em>Loading...</div>");
     $.ajax({
       async : false, // ajax를 동기방식으로 사용한다.
       url : url,
