@@ -31,9 +31,8 @@ section {
   align : center;
 }
 
-.link .icon {
-  width : 1em;
-  height : 1em;
+.link h1 {
+  font-size : 3em;
 }
 .link ul {
   border : 1px dotted #FFF;
@@ -45,4 +44,8 @@ section {
 }
 .link li {  
   line-height: 2;
+}
+.link .icon {
+  width : 1em;
+  height : 1em;
 }
