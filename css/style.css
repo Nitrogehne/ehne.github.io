@@ -28,23 +28,19 @@ section {
 }
 
 .align_left {
-	float: left;
-	margin-right: 40px;
+  float: left;
+  margin-right: 40px;
 }
 .align_right {
-	float: right;
+  float: right;
 	margin-left: 40px;
 }
 .align_center {
 	clear: both;
 	display: block;
 	margin: 0 auto;
-}
-/*
-.align_center {
   text-align : center;
 }
-*/
 
 .link h1 {
   font-size : 3em;
