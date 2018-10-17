@@ -14,7 +14,7 @@ $(document).on("click", ".to_main", function() {
     },
     complete : function() {
       $("#main_menu a.current").removeClass("current");
-      $("#main_menu a[data-url=" + url + "]").addClass("current");
+      $("#main_menu a[data-url='" + url + "']").addClass("current");
     }
   });
 });
