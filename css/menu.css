@@ -10,11 +10,11 @@ nav a {
   border:0px;
   margin:0px;
   padding:0px;
-  font-size:2em;
+  font-size:16px;
 }
 
 #main_menu ul{
-  background: #222;
+  background: #000;
   height:70px;
   list-style:none;
   margin:0;
@@ -27,7 +27,7 @@ nav a {
 }
 
 #main_menu li a{
-  background: #444;
+  background: #222;
   color:#FFF;
   cursor : pointer;
   display:block;
@@ -45,20 +45,20 @@ nav a {
 }
 
 #main_menu li a:hover, #main_menu ul li:hover a{
-background: rgb(71,71,71);
+background: #333;
 color:#FFFFFF;
 text-decoration:none;
 }
 
 #main_menu li ul{
-background: #666;
+background: #222;
 display:none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
 height:auto;
 padding:0px;
 margin:0px;
 border:0px;
 position:absolute;
-width:300px;
+width:200px;
 z-index:200;
 /*top:1em;
 /*left:0;*/
@@ -84,7 +84,7 @@ background:none;
 #main_menu li ul a{
 display:block;
 height:70px;
-font-size:2em;
+font-size:16px;
 font-style:normal;
 margin:0px;
 padding:0px 10px 0px 15px;
