@@ -30,6 +30,9 @@ section {
 
 article {
 }
+article h1{
+  font-size : 3em;
+}
 
 footer {
   border-top: 2px solid #FFF;
@@ -57,9 +60,6 @@ footer {
   text-align : center;
 }
 
-.link h1 {
-  font-size : 3em;
-}
 .link ul {
   border : 1px dotted #FFF;
   margin : 1em auto;
