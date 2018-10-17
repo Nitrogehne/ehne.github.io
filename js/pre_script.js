@@ -13,7 +13,7 @@ function load_file() {
         obj.after(rs);
       },
       error : function() {
-        obj.after("[failed : " + file + "]");
+        obj.after("[File not found : " + file + "]");
       },
       complete : function() {
         obj.remove();
