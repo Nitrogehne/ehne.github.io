@@ -37,7 +37,7 @@ section {
 .link ul {
   border : 1px dotted #FFF;
   margin : 1em auto;
-  padding : 1em;
+  padding : 1em 2em;
   list-style: none;
   text-align: left;
   display: inline-block
