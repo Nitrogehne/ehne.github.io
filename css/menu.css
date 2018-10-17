@@ -35,6 +35,10 @@ nav a {
   text-decoration:none;
 }
 
+#main_menu li a:not(data-url) {
+  cursor : default;
+}
+
 #main_menu li a.current {
   font-weight : bold;
   color : #e7dbed;
