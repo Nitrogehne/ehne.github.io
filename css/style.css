@@ -20,8 +20,9 @@ section {
 }
 
 #copyright {
-    border-top: 2px solid #FFF;
-    clear: both;
-    padding-right: 10px;
-    text-align: right;
+  border-top: 2px solid #FFF;
+  clear: both;
+  margin : 1em 0 0 0;
+  padding: .5em 1em;
+  text-align: right;
 }
