@@ -1,7 +1,5 @@
 $(function() {
-  while(0 < $(".file").length) {
     load_file();
-  }
 });
 
 function load_file() {
@@ -22,4 +20,9 @@ function load_file() {
       }
     });
   });
+  setTimeout(function() {    
+    if(0 < $(".file").length) {
+      load_file();
+    }
+  }, 1000);
 }
