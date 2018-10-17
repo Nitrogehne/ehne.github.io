@@ -19,7 +19,7 @@ function load_file() {
         obj.remove();
       }
     });
-  }).done(function() {    
+  }).promise().done(function() {    
     if($(".file").length) {
       //load_file();
         console.log($(".file"), $(".file").length);
