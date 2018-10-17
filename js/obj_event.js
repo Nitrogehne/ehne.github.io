@@ -1,4 +1,4 @@
-$.on("click", ".to_main", function() {
+$(document).on("click", ".to_main", function() {
   var obj = $(this);
   var file = obj.attr("data-href");
   var main = $("#main");
