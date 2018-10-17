@@ -19,10 +19,10 @@ function load_file() {
         obj.remove();
       }
     });
+  }).doen(function() {    
+    if($(".file").length) {
+      //load_file();
+        console.log($(".file"), $(".file").length));
+    })
   });
-  setTimeout(function() {    
-    if(0 < $(".file").length) {
-      load_file();
-    }
-  }, 1000);
 }
