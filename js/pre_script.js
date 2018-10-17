@@ -27,11 +27,9 @@ function load_file() {
     });
   }).promise().done(function() {    
       console.log("promise");
-    if($(".load").length) {          
-        if (i + 1 === count) {
+    if($(".load").length) {        
           //load_file();
             console.log($(".load"), $(".load").length);
-        }
     }
   });
 }
