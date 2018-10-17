@@ -18,12 +18,10 @@ function load_file() {
       },
       complete : function() {
         obj.remove();  
-          /*
         if (i + 1 === count) {
           //load_file();
             console.log($(".file"), $(".file").length);
         }
-        */
       }
     });
   }).promise().done(function() {    
