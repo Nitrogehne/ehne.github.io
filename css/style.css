@@ -15,6 +15,11 @@
   line-height : 1.5;
 }
 
+nav a {
+  color : #FFF;
+	text-decoration : none;
+}
+
 section {
   margin : 1em;
 }
@@ -27,9 +32,24 @@ section {
   text-align: right;
 }
 
+.align_left {
+	float: left;
+	margin-right: 40px;
+}
+.align_right {
+	float: right;
+	margin-left: 40px;
+}
+.align_center {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+/*
 .align_center {
   text-align : center;
 }
+*/
 
 .link h1 {
   font-size : 3em;
