@@ -18,7 +18,7 @@ function load_file() {
         obj.after("[File not found : " + url + "]");
       },
       complete : function() {
-          console.log("remove", i);
+          console.log("remove", i, count);
         obj.remove();  
         if (i + 1 === count) {
             
