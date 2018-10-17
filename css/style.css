@@ -15,6 +15,10 @@
   line-height : 1.5;
 }
 
+body {
+  background-color : #DDD;
+}
+
 header {
   border-bottom : 2px solid #FFF;
   margin-bottom : 1em;
