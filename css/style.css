@@ -26,3 +26,8 @@ section {
   padding: .5em 1em;
   text-align: right;
 }
+
+.link .icon {
+  width : 1em;
+  height : 1em;
+} 
