@@ -6,7 +6,7 @@
   color : #FFF;
   
   /* box */
-  border-width : 0 inherit #000;
+  border : 0 solid inherit;
   box-sizing : border-box;
   margin : 0;
   padding : 0;
