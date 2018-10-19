@@ -1,12 +1,20 @@
 @charset "utf-8";
 
+:root{
+	bg : #000;
+  basic : #E7DBED;
+  point : #9A54CE;
+  hover : #61B977;
+  focus : #37B8EB;
+}
+
 * {
   /* default color */
-  background-color : #000;
-  color : #E7DBED;
+  background-color : var(bg);
+  color : var(basic);
   
   /* box */
-  border : 0 solid inherit;
+  border : 0 solid var(basic);
   box-sizing : border-box;
   margin : 0;
   padding : 0;
@@ -35,7 +43,7 @@ article > h1 {
 }
 
 footer {
-  border-top: 2px solid #FFF;
+  border-top-width: 2px;
   margin-top : 1em;
 }
 
@@ -61,7 +69,8 @@ footer {
 }
 
 .link ul {
-  border : 1px dotted #FFF;
+  border-width : 1px;
+  border-style : dotted;
   margin : 1em auto;
   padding : 1em 3em;
   list-style: none;
