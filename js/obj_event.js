@@ -17,9 +17,8 @@ $(document).on("click", ".to_main", function() {
       $("#main_menu a.current").removeClass("current");
       var current = $("#main_menu a[data-url='" + url + "']");
       var parent = current.parent().parent().parent();
-      if(parent.attr("id") == "main_menu"){
-        current.addClass("current");
-      } else {
+      current.addClass("current");
+      if(parent.attr("id") != "main_menu") {
         parent.children("a").addClass("current");
       }
     }
