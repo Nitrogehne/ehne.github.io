@@ -19,8 +19,6 @@ body {
 }
 
 header {
-  background-color : #222;
-  border-bottom : 2px solid #FFF;
   margin-bottom : 1em;
 }
 
@@ -29,8 +27,9 @@ section {
 }
 
 article {
+  text-align : center;
 }
-article h1{
+article > h1 {
   font-size : 3em;
 }
 
