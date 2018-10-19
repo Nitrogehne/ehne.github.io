@@ -24,10 +24,10 @@ header {
 
 section {
   margin : 1em;
+  text-align : center;
 }
 
 article {
-  text-align : center;
 }
 article > h1 {
   font-size : 3em;
