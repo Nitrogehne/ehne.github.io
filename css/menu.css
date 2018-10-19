@@ -1,15 +1,10 @@
 @charset "utf-8";
 
-nav a {
-  text-decoration : none;
-}
-
 #main_menu{
-  font-weight : bold;
+  text-align : center;
 }
 
 #main_menu ul{
-  height:50px;
   list-style:none;
   display : inline-block;
 }
@@ -25,6 +20,7 @@ nav a {
   vartical-align : middle;
   text-decoration:none;
   font-size : 30px;
+  font-weight : bold;
   width : 100px;
   height : 50px;
 }
@@ -57,7 +53,7 @@ display:block; /* 마우스 커서 올리면 드랍메뉴 보이게 하기 */
 }
 
 #main_menu li li {
-background: #333;
+background: #111;
 display:block;
 float:none;
 width:100px;
@@ -68,13 +64,14 @@ width:100px;
 }
 
 #main_menu li ul a{
+  color : #E7DBED;
   display:block;
   height:50px;
   text-align:center;
 }
 
 #main_menu li ul a:hover, #main_menu li ul li:hover a{
-  background: #444;
+  background: #333;
   color:#61B977;
   text-decoration:none;
 }
