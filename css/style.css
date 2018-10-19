@@ -1,20 +1,20 @@
 @charset "utf-8";
 
 :root{
-  bg : #000;
-  basic : #E7DBED;
-  point : #9A54CE;
-  hover : #61B977;
-  focus : #37B8EB;
+  --bg : #000;
+  --basic : #E7DBED;
+  --point : #9A54CE;
+  --hover : #61B977;
+  --focus : #37B8EB;
 }
 
 * {
   /* default color */
-  background-color : var(bg);
-  color : var(basic);
+  background-color : var(--bg);
+  color : var(--basic);
   
   /* box */
-  border : 0 solid var(basic);
+  border : 0 solid var(--basic);
   box-sizing : border-box;
   margin : 0;
   padding : 0;
