@@ -15,6 +15,7 @@
 
 #main_menu ul li a{
   background: #111;
+  cursor : default;
   display:table-cell;
   text-align:center;
   vartical-align : middle;
