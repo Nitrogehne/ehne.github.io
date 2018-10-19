@@ -13,7 +13,7 @@
   float:left;
 }
 
-#main_menu li a{
+#main_menu ul li a{
   background: #111;
   display:table-cell;
   text-align:center;
@@ -25,55 +25,45 @@
   height : 50px;
 }
 
-#main_menu li a[attr=data-url] {
+#main_menu ul li a[attr=data-url] {
   cursor : pointer;
 }
 
-#main_menu li a.current {
+#main_menu ul li a.current {
   color : #9A54CE;
   background-color:#222;
 }
 
-#main_menu li a:hover, #main_menu ul li:hover a{
+#main_menu ul li a:hover{
   background: #333;
   color:#61B977;
-  text-decoration:none;
 }
 
-#main_menu li ul{
-  display:none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
-  height:auto;
+#main_menu ul li ul{
+  display:none;
   position:absolute;
   width:100px;
   z-index:200;
 }
 
-#main_menu li:hover ul{
-display:block; /* 마우스 커서 올리면 드랍메뉴 보이게 하기 */
+#main_menu ul li:hover ul{
+  display:block;
 }
 
-#main_menu li li {
-background: #111;
-display:block;
-float:none;
-width:100px;
+#main_menu ul li ul li {
+  background: #111;
+  display:block;
+  float:none;
 }
 
-#main_menu li:hover li a{
-  background:none;
-}
-
-#main_menu li ul a{
+#main_menu ul li ul li a{
   color : #E7DBED;
   display:block;
-  height:50px;
-  text-align:center;
 }
 
-#main_menu li ul a:hover, #main_menu li ul li:hover a{
+#main_menu ul li ul li a:hover{
   background: #333;
   color:#61B977;
-  text-decoration:none;
 }
 
 #main_menu p{
