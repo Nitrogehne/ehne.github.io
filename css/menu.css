@@ -26,7 +26,7 @@
   height : 50px;
 }
 
-#main_menu ul li a[attr=data-url] {
+#main_menu ul li a[data-url] {
   cursor : pointer;
 }
 
