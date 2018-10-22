@@ -1,29 +1,251 @@
 <style>
-    #pageTripleGem table {
-        margin: auto;
-    }
-    #pageTripleGem td {
-        border: 2px solid;
-        background-repeat: no-repeat;
-        background-position: center center;
-        padding: 3px;
-        text-align : center;
-    }
-    #pageTripleGem .swap {
-        cursor: pointer;
-    }
-    #pageTripleGem .t {
-    }
+  #pageTripleGem table {
+    margin: auto;
+  }
+  #pageTripleGem td {
+    border: 2px solid;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 3px;
+    text-align : center;
+  }
+  #pageTripleGem .swap {
+    cursor: pointer;
+  }
+  #pageTripleGem .t {
+  }
+  .block_set {
+    width:50px;
+    height:50px;
+    text-align : center;
+    border-width: 2px;
+    border-style: solid;
+    background-repeat:no-repeat;
+    background-position:center center;
+  }
+  .b_888 {
+    border-color:#888;
+  }
+  .b_000 {
+    border-color:#000;
+  }
+  .b_f88 {
+    border-color:#f88;
+  }
+  .b_f00 {
+    border-color:#f00;
+  }
+  .b_fff{
+    border-color:#fff;
+  }
+  .b_bb0{
+    border-color:#bb0;
+  }
+  .b_88f{
+    border-color:#88f;
+  }
+  .b_44f{
+    border-color:#44f;
+  }
+  .bg_000 {
+    background-color : #000;
+  }
+  .bg_200{
+    background-color : #200;
+  }
+  .bg_400{
+    background-color : #400;
+  }
+  .bg_600{
+    background-color : #600;
+  }
+  .bg_800 {
+    background-color : #800;
+  }
+  .bg_a00 {
+    background-color : #a00;
+  }
+  .bg_c00 {
+    background-color : #c00;
+  }
+  .bg_330{
+    background-color : #330;
+  }
+  .bg_660{
+    background-color : #660;
+  }
+  .bg_990{
+    background-color : #990;
+  }
+  .bg_cc0{
+    background-color : #cc0;
+  }
+  .bg_004{
+    background-color : #004;
+  }
+  .bg_008{
+    background-color : #008;
+  }
+  .bi_blk {
+    background-image:url("blk.png");
+  }
+  .bi_r1 {
+    background-image:url("r1.png");
+  }
+  .bi_r2 {
+    background-image:url("r2.png");
+  }
+  .bi_r3 {
+    background-image:url("r3.png");
+  }
+  .bi_r4 {
+    background-image:url("r4.png");
+  }
+  .bi_r5 {
+    background-image:url("r5.png");
+  }
+  .bi_r6 {
+    background-image:url("r6.png");
+  }
+  .bi_r7 {
+    background-image:url("r7.png");
+  }
+  .bi_y1 {
+    background-image:url("y1.png");
+  }
+  .bi_y2 {
+    background-image:url("y2.png");
+  }
+  .bi_y3 {
+    background-image:url("y3.png");
+  }
+  .bi_y4 {
+    background-image:url("y4.png");
+  }
+  .bi_y5 {
+    background-image:url("y5.png");
+  }
+  .bi_b1 {
+    background-image:url("b1.png");
+  }
+  .bi_b2 {
+    background-image:url("b2.png");
+  }
+  .bi_b3 {
+    background-image:url("b3.png");
+  }
+  .block_up{
+    border:1px solid #fff;
+  }
+  .block_up table tr td {
+    vertical-align : middle;
+  }
 </style>
-<section id="pageTripleGem" class="contents">
+<article id="triplegem">
+<table class="hidden2">
+  <tr>
+    <td class="block_set b_888 bg_000 bi_blk">0</td>
+    <td class="block_set b_000 bg_000 bi_blk">1</td>
+    <td class="block_set b_888 bg_000 bi_blk">2</td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+  </tr>
+  <tr>
+    <td class="block_set b_f88 bg_000 bi_blk">10</td>
+    <td class="block_set b_f00 bg_000 bi_r1">11</td>
+    <td class="block_set b_f00 bg_200 bi_r2">12</td>
+    <td class="block_set b_f00 bg_400 bi_r3">13</td>
+    <td class="block_set b_f00 bg_600 bi_r4">14</td>
+    <td class="block_set b_f00 bg_800 bi_r5">15</td>
+    <td class="block_set b_f00 bg_a00 bi_r6">16</td>
+    <td class="block_set b_f00 bg_c00 bi_r7">19</td>
+    <td class="block_set"></td>
+    <td class="block_set b_f00 bg_c00 bi_r7">19</td>
+  </tr>
+  <tr>
+    <td class="block_set b_fff bg_000 bi_blk">20</td>
+    <td class="block_set b_bb0 bg_000 bi_y1">21</td>
+    <td class="block_set b_bb0 bg_330 bi_y2">22</td>
+    <td class="block_set b_bb0 bg_660 bi_y3">23</td>
+    <td class="block_set b_bb0 bg_990 bi_y4">24</td>
+    <td class="block_set b_bb0 bg_cc0 bi_y5">29</td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set b_bb0 bg_cc0 bi_y5">29</td>
+  </tr>
+  <tr>
+    <td class="block_set b_88f bg_000 bi_blk">30</td>
+    <td class="block_set b_44f bg_000 bi_b1">31</td>
+    <td class="block_set b_44f bg_004 bi_b2">32</td>
+    <td class="block_set b_44f bg_008 bi_b3">39</td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set"></td>
+    <td class="block_set b_44f bg_008 bi_b3">39</td>
+  </tr>
+</table>
+<table class="hidden">
+  <tr>
+    <td class="block_up">
+      <table>
+        <tr>
+          <td><img src="doc/app/triplegem/blk.png"></td>
+  </tr>
+        
+if($row != 0 && $col != 0 && !is_null($block_set_value[$row*10 + $col]))
+{
+        ?>
+        <td class="block_up" style="border:1px solid #fff">
+        <table>
+            <tr>
+                <td valign="middle"><img src="<?= $path.$block_set_bgImg[$row*10+$col];?>.png"><?
+if(!is_null($block_set_value[$row * 10 + $col + 1]) && $col != 9)
+{
+for($i = 0; $i < 2; $i++)
+{
+                ?><img src="<?= $path.$block_set_bgImg[$row*10+$col];?>.png"><?
+}
+}
+                ?></td>
+                <td valign="middle"><img src="<?= $path;?>arrow_right.png"></td>
+                <td valign="middle"><?
+if(!is_null($block_set_value[$row * 10 + $col + 1]) && $col != 9)
+{
+                ?><img src="<?= $path.$block_set_bgImg[$row*10+$col+1];?>.png"><?
+}
+else
+{
+                ?>
+                ★<?
+}
+                ?></td>
+            </tr>
+        </table><?
+}
+else
+{
+        ?><td id="block_up"></td>
+        <?
+}
+}
+        ?>
+    </tr>
     <?
-include "gemTable.php";
+}
     ?>
-    딴거 수정하다가 저도 모르게 덮어쓰기돼서 날려먹었습니다. -_-;;;
-    <div class="em3" title="1. Triple Town이라는 게임을 배껴 만들었습니다.
-2. 보석 이미지의 출처는 Diablo3입니다.
-3. Swap은 우클릭으로도 가능합니다.
-4. 크롬, 사파리에서 정상작동 됨을 확인했습니다.">TRIPLE GEM</div>
+</table>
+1. Triple Town이라는 게임을 배껴 만들었습니다.<br>
+2. 보석 이미지의 출처는 Diablo3입니다.<br>
+3. Swap은 우클릭으로도 가능합니다.<br>
+4. 크롬, 사파리에서 정상작동 됨을 확인했습니다.
     <table>
         <tr>
             <td>
