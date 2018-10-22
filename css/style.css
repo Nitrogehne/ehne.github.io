@@ -53,20 +53,6 @@ footer {
   text-align: right;
 }
 
-.align_left {
-  float: left;
-  margin-right: 40px;
-}
-.align_right {
-  float: right;
-	margin-left: 40px;
-}
-.align_center {
-	clear: both;
-	display: block;
-	margin: 0 auto;
-  text-align : center;
-}
 
 .link ul {
   border-width : 1px;
