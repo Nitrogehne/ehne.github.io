@@ -1,0 +1,341 @@
+<style>
+    /* - - - - - - - - - - 조합판 */
+    ._combiboard {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    ._combi {
+        border: solid silver;
+        border-width: 5px 5px 0px 5px;
+        padding-left: 20px;
+        font-size: 28px;
+        letter-spacing: 20px;
+        font-weight: bold;
+        width: 130px;
+        height: 32px;
+        text-align: center;
+    }
+    ._combi._a {
+        color: #1DDB16;
+    }
+    ._combi._m {
+        color: #FF0000;
+    }
+    ._comp {
+        border: solid silver;
+        border-width: 5px;
+        color : #FFFF24;
+        font-size: 28px;
+        font-weight: bold;
+        width: 150px;
+        height: 32px;
+        text-align: center;
+        cursor: pointer;
+    }
+    ._comp:hover {
+      border-color : #FFFF24;
+    }
+    ._comp._a {
+        border-color : #1DDB16;
+        color: #1DDB16;
+    }
+    ._comp._m {
+        border-color : #ff0000;
+        color: #FF0000;
+    }
+    /* - - - - - - - - - - 게임판 */
+    ._gameboard {
+        border: 5px outset silver;
+        display: inline-block;
+        vertical-align: middle;
+        padding: 10px;
+    }
+    ._num {
+        width: 24px;
+        height: 24px;
+        font-size: 21px;
+        font-weight: bold;
+        position: absolute;
+        margin: -28px;
+        background: black;
+        border: 3px solid silver;
+        border-radius: 15px;
+        text-align: center;
+    }
+    ._x {
+        border: 5px ridge silver;
+        padding: 10px;
+        margin: 10px;
+        cursor: pointer;
+        width: 100px;
+        height: 100px;
+    }
+    ._x._selected {
+        border-width: 10px;
+        border-color: #FFFF24;
+        margin: 5px;
+    }
+    ._x._a {
+        border-color: #1DDB16;
+    }
+    ._x._m {
+        border-color: #FF0000;
+    }
+    ._l {
+        float: left;
+    }
+    ._cl {
+        clear: both;
+    }
+    /* - - - - - - - - - - 배경 */
+    ._w {
+        background: white;
+    }
+    ._g {
+        background: gray;
+    }
+    ._k {
+        background: black;
+    }
+    /* - - - - - - - - - - 모양 */
+    ._s {
+        width: 0px;
+        height: 0px;
+        border-width: 42px;
+        border-style: solid;
+        margin: 8px;
+    }
+    ._c {
+        width: 0px;
+        height: 0px;
+        border-width: 50px;
+        border-radius: 50px;
+        border-style: solid;
+    }
+    ._t {
+        width: 0px;
+        height: 0px;
+        margin: 6px 0px 7px 0px;
+        border-width: 0 50px 87px 50px;
+        border-style: solid;
+        border-top-color: transparent !important;
+        border-right-color: transparent !important;
+        border-left-color: transparent !important;
+    }
+    /* - - - - - - - - - - 색 */
+    ._r {
+        border-color: #982525;
+    }
+    ._y {
+        border-color: #DFAB00;
+    }
+    ._b {
+        border-color: #2054DF;
+    }
+
+
+</style>
+<article id="combination">
+    <div class="title em3">결<span class="hidden">(缺)</span>! 합<span class="hidden">(合)</span>!<div>
+    <div class="_combiboard">
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_combi"></div>
+        <div class="_comp">
+            결!
+        </div>
+    </div>
+    <div class="_gameboard">
+        <div class="_x _l">
+            <div class="_num">
+                1
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                2
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                3
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _cl _l">
+            <div class="_num">
+                4
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                5
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                6
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _cl _l">
+            <div class="_num">
+                7
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                8
+            </div>
+            <div class="_shape"></div>
+        </div>
+        <div class="_x _l">
+            <div class="_num">
+                9
+            </div>
+            <div class="_shape"></div>
+        </div>
+    </div>
+    <div class="test"></div>
+</section>
+<script>
+	$(document).ready(function() {
+		// 합!
+		var answer = new Array();
+		// 각 블럭에 조합 부여하기
+		make_game(answer);
+		$("._x").click(function() {
+			var comp = false;
+			// 블럭 클릭 이벤트
+			// 3개 이하 선택시 클릭 가능.
+			// 합! 이후 바로 클릭 못하도록 필요.
+			if($("._selected").length < 3) {
+				// 클릭하면 선택, 해제됨.
+				$(this).toggleClass("_selected");
+				// 3개를 선택하면 합! 이벤트 발생
+				if($("._selected").length == 3) {
+					// 합!이 남아있는 경우
+					var combi = "";
+					if(answer.length > 0) {
+						// 셀렉트된 3개의 합을 찾는다.
+						for(var i = 0; i < $("._selected").length; i++) {
+							combi += $("._selected").eq(i).index() + 1;
+						}
+						for(var i = 0; i < answer.length; i++) {
+							if(answer[i] == combi) {
+								answer.splice(i, 1);
+								$("._combi:empty").eq(0).attr("data-value", combi).addClass("_a").text(combi);
+								$("._selected").addClass("_a");
+								comp = true;
+								break;
+							}
+						}
+					}
+					if(!comp) {
+						$("._combi[data-value=" + combi + "]").addClass("_m");
+						$("._selected").addClass("_m");
+					}
+					clear();
+				}
+			}
+		});
+		// 결! 이벤트
+		$("._comp").click(function() {
+			if($("._selected").length != 3) {
+				if(answer.length > 0) {
+                                       $("._comp").addClass("_m");
+					$("._x").addClass("_selected _m");
+					clear();
+				} else {
+                                       $("._comp").addClass("_a");
+					$("._x").addClass("_selected _a");
+					setTimeout(function() {
+						make_game(answer);
+					}, 1000);
+				}
+			}
+		});
+	});
+	function make_game(answer) {
+		$("._combi").attr("data-value", "").text("");
+               $("._comp").removeClass("_a _m");
+		$("._selected").removeClass("_a _m _selected");
+		// 조합 클래스명
+		var wgk = new Array("_w", "_g", "_k");
+		var tsc = new Array("_t", "_s", "_c");
+		var ryb = new Array("_r", "_y", "_b");
+		// 중복 체크
+		var temp = new Array();
+		$("._x").each(function() {
+			var v, v1, v2, v3;
+			do {
+				// 랜덤 생성
+				v1 = Math.floor(Math.random() * 3);
+				v2 = Math.floor(Math.random() * 3);
+				v3 = Math.floor(Math.random() * 3);
+				v = v1 * 9 + v2 * 3 + v3;
+			} while (temp[v] == true);
+			// 중복 방지
+			temp[v] = true;
+			// 조합 부여
+			$(this).removeClass("_w _g _k").addClass(wgk[v1]).attr("data-value", v);
+			$(this).children("._shape").removeClass("_t _s _c _r _y _b").addClass(tsc[v2]).addClass(ryb[v3]);
+		});
+		// 합!
+		for(var a = 0; a < 9 - 2; a++) {
+			for(var b = a + 1; b < 9 - 1; b++) {
+				for(var c = b + 1; c < 9; c++) {
+					var v1 = $("._x").eq(a).attr("data-value");
+					var v2 = $("._x").eq(b).attr("data-value");
+					var v3 = $("._x").eq(c).attr("data-value");
+					if(combi_check(v1, v2, v3)) {
+						answer.push("" + (a + 1) + (b + 1) + (c + 1));
+					}
+				}
+			}
+		}
+	}
+
+	function combi_check(v1, v2, v3) {
+		// 배경색
+		var b1 = Math.floor(v1 / 9);
+		var b2 = Math.floor(v2 / 9);
+		var b3 = Math.floor(v3 / 9);
+		// 모양
+		var s1 = Math.floor(v1 % 9 / 3);
+		var s2 = Math.floor(v2 % 9 / 3);
+		var s3 = Math.floor(v3 % 9 / 3);
+		// 색
+		var c1 = v1 % 3;
+		var c2 = v2 % 3;
+		var c3 = v3 % 3;
+
+		if(((b1 == b2 && b2 == b3 && b3 == b1) || (b1 != b2 && b2 != b3 && b3 != b1)) && ((s1 == s2 && s2 == s3 && s3 == s1) || (s1 != s2 && s2 != s3 && s3 != s1)) && ((c1 == c2 && c2 == c3 && c3 == c1) || (c1 != c2 && c2 != c3 && c3 != c1))) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	function clear() {
+		setTimeout(function() {
+			$("._combi").removeClass("_a _m");
+			$("._comp").removeClass("_a _m");
+			$("._selected").removeClass("_a _m _selected");
+		}, 1000);
+	}
+</script>
