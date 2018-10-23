@@ -54,7 +54,7 @@ footer {
 }
 
 
-.link ul {
+#link ul {
   border-width : 1px;
   border-style : dotted;
   margin : 1em auto;
@@ -63,10 +63,10 @@ footer {
   text-align: left;
   display: inline-block
 }
-.link li {  
+#link li {  
   line-height: 2;
 }
-.link .icon {
+#link .icon {
   width : 1em;
   height : 1em;
 }
