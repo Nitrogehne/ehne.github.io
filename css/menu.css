@@ -30,7 +30,7 @@
   cursor : pointer;
 }
 
-#main_menu ul li.current a {
+#main_menu ul li.current > a {
   color : #9A54CE;
   background-color:#222;
   border-bottom : 2px solid #9A54CE;
