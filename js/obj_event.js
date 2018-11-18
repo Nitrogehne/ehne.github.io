@@ -14,12 +14,12 @@ $(document).on("click", ".to_main", function() {
       console.log("[File not found : " + url + "]");
     },
     complete : function() {
-      $("#main_menu a.current").removeClass("current");
-      var current = $("#main_menu a[data-url='" + url + "']");
-      var parent = current.parent().parent().parent();
+      $("#main_menu li.current").removeClass("current");
+      var current = $("#main_menu a[data-url='" + url + "']").parent("li");
+      var parent = current.parent().parent();
       current.addClass("current");
       if(parent.attr("id") != "main_menu") {
-        parent.children("a").addClass("current");
+        parent.children("li").addClass("current");
       }
     }
   });
