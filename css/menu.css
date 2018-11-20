@@ -33,7 +33,7 @@
 #main_menu ul li.current > a {
   color : #9A54CE;
   background-color:#222;
-  border-bottom : 2px solid #9A54CE;
+  border-bottom : 3px solid #9A54CE;
 }
 #main_menu ul li.semi_current > a {
   color : #9A54CE;
