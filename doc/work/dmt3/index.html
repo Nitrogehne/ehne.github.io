@@ -15,9 +15,10 @@
 <style>
   .dmt3_st, .dmt3_nm, .dmt3_hd, .dmt3_mx { font-weight : bold; }
   .dmt3_st{ color : pink; }
-  .dmt3_nm{ color : blue; }
-  .dmt3_hd{ color : red;}
-  .dmt3_mx{ color : violet; }
+  .dmt3_nm{ color : yellow; }
+  .dmt3_hd{ color : dodgerblue;}
+  .dmt3_mx{ color : orangered; }
+  .dmt3_ex{ color : darkorchid; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td;
@@ -40,6 +41,8 @@
             td.addClass("dmt3_hd");
           }else if(dt_td[j] == "MX"){
             td.addClass("dmt3_mx");
+          }else if(dt_td[j] == "EX"){
+            td.addClass("dmt3_ex");
           }
           tr.append(td);
         }
