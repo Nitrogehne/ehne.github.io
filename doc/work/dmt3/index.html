@@ -43,6 +43,8 @@
             td.addClass("dmt3_mx");
           }else if(dt_td[j] == "EX"){
             td.addClass("dmt3_ex");
+          }else if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
           tr.append(td);
         }
