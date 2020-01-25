@@ -13,6 +13,7 @@
 </table>
 </article>
 <script>
+  var test;
   $.ajax({
     async : false,
     url : "doc/work/dmt3/dmt3_data.txt",
@@ -21,6 +22,7 @@
     success : function(rs) {
       var tb = $("#dmt3_tb tbody");
       console.log(rs);
+      tset = rs;
     },
     error : function(rs) {
     }
