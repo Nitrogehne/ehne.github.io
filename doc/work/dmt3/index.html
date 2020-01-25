@@ -13,5 +13,16 @@
 </table>
 </article>
 <script>
-  dmt3_data.txt
+  $.ajax({
+    async : false,
+    url : "dmt3_data.txt",
+    complete : function(rs) {
+    },
+    success : function(rs) {
+      var tb = $("#dmt3_tb tbody");
+      console.log(rs);
+    },
+    error : function(rs) {
+    }
+  });
 </script>
