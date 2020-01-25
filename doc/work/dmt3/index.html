@@ -20,10 +20,18 @@
     complete : function(rs) {
     },
     success : function(rs) {
-      var tb = $("#dmt3_tb tbody");
-            test = rs;
-      console.log(test);
-      console.log(11);
+      var tb, tr, dt_tr, td, dt_td;
+      tb = $("#dmt3_tb tbody");
+      dt_tr = rs.split("\n");
+      for(let i = 0; i < dt_tr.length; i++){
+        tr = $("tr");
+        dt_td = tr[i].split("|");
+        for(let j = 0; j < dt_td.length; j++){
+          td = $("td").innerText(dt_td[i]);
+          tr.append(td);
+        }
+        tb.append(tr);
+      }
     },
     error : function(rs) {
     }
