@@ -21,10 +21,10 @@
       tb = $("#dmt3_tb tbody");
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
-        tr = $("tr");
+        tr = $("<tr>");
         dt_td = dt_tr[i].split("|");
         for(let j = 0; j < dt_td.length; j++){
-          td = $("td").text(dt_td[j]);
+          td = $("<td>").text(dt_td[j]);
           tr.append(td);
         }
         tb.append(tr);
