@@ -17,8 +17,6 @@
   $.ajax({
     async : false,
     url : "doc/work/dmt3/dmt3_data.txt",
-    complete : function(rs) {
-    },
     success : function(rs) {
       tb = $("#dmt3_tb tbody");
       dt_tr = rs.split("\n");
@@ -31,6 +29,8 @@
         }
         tb.append(tr);
       }
+    },
+    complete : function(rs) {
     },
     error : function(rs) {
     }
