@@ -80,7 +80,7 @@ SigNalize|EX|https://www.youtube.com/watch?v=hOQr6ERkQ9s
 Step|Star|
 Step|NM|https://www.youtube.com/watch?v=7eiCk-AZdI8
 Step|HD|https://www.youtube.com/watch?v=cmqAAdEzA2g
-Step|MX|https://www.youtube.com/watch?v=Qrw_E8-3LVo
+Step|MX|https://www.youtube.com/watch?v=Z5G4bYn3O-w
 Step Original ver.|NM|https://www.youtube.com/watch?v=wG09TT_883o
 Step Original ver.|HD|https://www.youtube.com/watch?v=9_mRks23AYg
 Step Original ver.|MX|https://www.youtube.com/watch?v=SbrUk9vN7UQ
