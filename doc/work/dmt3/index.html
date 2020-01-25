@@ -13,14 +13,13 @@
 </table>
 </article>
 <script>
-  var test;
+  var tb, tr, dt_tr, td, dt_td;
   $.ajax({
     async : false,
     url : "doc/work/dmt3/dmt3_data.txt",
     complete : function(rs) {
     },
     success : function(rs) {
-      var tb, tr, dt_tr, td, dt_td;
       tb = $("#dmt3_tb tbody");
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
