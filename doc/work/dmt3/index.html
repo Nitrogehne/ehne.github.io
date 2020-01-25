@@ -27,7 +27,7 @@
         tr = $("tr");
         dt_td = dt_tr[i].split("|");
         for(let j = 0; j < dt_td.length; j++){
-          td = $("td").innerText(dt_td[i]);
+          td = $("td").text(dt_td[i]);
           tr.append(td);
         }
         tb.append(tr);
