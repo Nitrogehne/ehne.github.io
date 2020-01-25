@@ -25,7 +25,7 @@
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
         tr = $("tr");
-        dt_td = tr[i].split("|");
+        dt_td = dt_tr[i].split("|");
         for(let j = 0; j < dt_td.length; j++){
           td = $("td").innerText(dt_td[i]);
           tr.append(td);
