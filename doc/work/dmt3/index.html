@@ -51,7 +51,7 @@
           tr.addClass("song_div");
         }
         song = dt_td[0];
-        for(let j = 0; dt_td[0] != "" && j < dt_td.length; j++){
+        for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j] == "Star"){
             td.addClass("dmt3_st");
@@ -68,7 +68,9 @@
           }
           tr.append(td);
         }
-        tb.append(tr);
+        if(dt_td[0] != ""){
+          tb.append(tr);
+        }
       }
     },
     complete : function(rs) {
