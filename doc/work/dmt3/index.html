@@ -22,7 +22,7 @@
   #dmt3_tb thead {
     
   }
-  #dmt3_tb tbody tr {
+  #dmt3_tb tbody tr.song_div {
     border-top-width : 1px;
     border-top-style : solid;
   }
@@ -37,7 +37,7 @@
   .dmt3_ex{ color : darkorchid; }
 </style>
 <script>
-  var tb, tr, dt_tr, td, dt_td;
+  var tb, tr, dt_tr, td, dt_td, song;
   $.ajax({
     async : false,
     url : "doc/work/dmt3/dmt3_data.txt",
@@ -47,6 +47,9 @@
       for(let i = 0; i < dt_tr.length; i++){
         tr = $("<tr>");
         dt_td = dt_tr[i].split("|");
+        if(song != dt_td[0]) {
+          tr.addClass("song_div");
+        }
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j] == "Star"){
