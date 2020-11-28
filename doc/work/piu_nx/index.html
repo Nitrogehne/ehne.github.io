@@ -29,8 +29,8 @@
   #piu_nx_tb tbody td {
     padding : 0 1em;
   }
-  .piu_nx_ez, .piu_nx_hd, .piu_nx_cz, .piu_nx_fs, .piu_nx_nm, .piu_nx_lm { font-weight : bold; }
-  .piu_nx_ez{ color : hotpink; }
+  .piu_nx_nm, .piu_nx_hd, .piu_nx_cz, .piu_nx_fs, .piu_nx_nm, .piu_nx_lm { font-weight : bold; }
+  .piu_nx_nm{ color : yellow; }
   .piu_nx_hd{ color : royalblue; }
   .piu_nx_cz{ color : red;}
   .piu_nx_fs{ color : lime;}
@@ -54,8 +54,8 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("Easy")){
-            td.addClass("piu_nx_ez");
+          if(dt_td[j].includes("Normal")){
+            td.addClass("piu_nx_nm");
           }else if(dt_td[j].includes("Hard")){
             td.addClass("piu_nx_hd");
           }else if(dt_td[j].includes("Crazy")){
