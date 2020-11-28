@@ -1,6 +1,6 @@
-<article id="dmt3">
+<article id="dmt_3">
 <h1>DJMAX TECHNIKA 3</h1>
-<table id="dmt3_tb">
+<table id="dmt_3_tb">
   <thead>
     <tr>
       <th>Music</th>
@@ -13,36 +13,36 @@
 </table>
 </article>
 <style>
-  #dmt3_tb {
+  #dmt_3_tb {
     border-width: 3px;
     padding: 0 1em;
     margin : auto;
     border-collapse : collapse; 
   }
-  #dmt3_tb thead {
+  #dmt_3_tb thead {
     
   }
-  #dmt3_tb tbody tr.song_div {
+  #dmt_3_tb tbody tr.song_div {
     border-top-width : 1px;
     border-top-style : solid;
   }
-  #dmt3_tb tbody td {
+  #dmt_3_tb tbody td {
     padding : 0 1em;
   }
-  .dmt3_st, .dmt3_nm, .dmt3_hd, .dmt3_mx, .dmt3_ex { font-weight : bold; }
-  .dmt3_st{ color : hotpink; }
-  .dmt3_nm{ color : yellow; }
-  .dmt3_hd{ color : dodgerblue;}
-  .dmt3_mx{ color : orangered; }
-  .dmt3_ex{ color : darkorchid; }
+  .dmt_3_st, .dmt_3_nm, .dmt_3_hd, .dmt_3_mx, .dmt_3_ex { font-weight : bold; }
+  .dmt_3_st{ color : hotpink; }
+  .dmt_3_nm{ color : yellow; }
+  .dmt_3_hd{ color : dodgerblue;}
+  .dmt_3_mx{ color : orangered; }
+  .dmt_3_ex{ color : darkorchid; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td, song;
   $.ajax({
     async : false,
-    url : "doc/work/dmt3/dmt3_data.txt",
+    url : "doc/work/dmt_3/dmt_3_data.txt",
     success : function(rs) {
-      tb = $("#dmt3_tb tbody");
+      tb = $("#dmt_3_tb tbody");
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
         tr = $("<tr>");
@@ -54,15 +54,15 @@
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j] == "Star"){
-            td.addClass("dmt3_st");
+            td.addClass("dmt_3_st");
           }else if(dt_td[j] == "NM"){
-            td.addClass("dmt3_nm");
+            td.addClass("dmt_3_nm");
           }else if(dt_td[j] == "HD"){
-            td.addClass("dmt3_hd");
+            td.addClass("dmt_3_hd");
           }else if(dt_td[j] == "MX"){
-            td.addClass("dmt3_mx");
+            td.addClass("dmt_3_mx");
           }else if(dt_td[j] == "EX"){
-            td.addClass("dmt3_ex");
+            td.addClass("dmt_3_ex");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
