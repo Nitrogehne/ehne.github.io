@@ -1,6 +1,6 @@
-<article id="piu_nx_2">
+<article id="piu_nx2">
 <h1>Pump It Up Next Xenesis</h1>
-<table id="piu_nx_2_tb">
+<table id="piu_nx2_tb">
   <thead>
     <tr>
       <th>Music</th>
@@ -13,37 +13,37 @@
 </table>
 </article>
 <style>
-  #piu_nx_2_tb {
+  #piu_nx2_tb {
     border-width: 3px;
     padding: 0 1em;
     margin : auto;
     border-collapse : collapse; 
   }
-  #piu_nx_2_tb thead {
+  #piu_nx2_tb thead {
     
   }
-  #piu_nx_2_tb tbody tr.song_div {
+  #piu_nx2_tb tbody tr.song_div {
     border-top-width : 1px;
     border-top-style : solid;
   }
-  #piu_nx_2_tb tbody td {
+  #piu_nx2_tb tbody td {
     padding : 0 1em;
   }
-  .piu_nx_2_no, .piu_nx_2_hd, .piu_nx_2_cz, .piu_nx_2_fs, .piu_nx_2_nm, .piu_nx_2_lm { font-weight : bold; }
-  .piu_nx_2_no{ color : yellow; }
-  .piu_nx_2_hd{ color : royalblue; }
-  .piu_nx_2_cz{ color : red;}
-  .piu_nx_2_fs{ color : lime;}
-  .piu_nx_2_nm{ color : mediumpurple; }
-  .piu_nx_2_lm{ color : cyan; }
+  .piu_nx2_no, .piu_nx2_hd, .piu_nx2_cz, .piu_nx2_fs, .piu_nx2_nm, .piu_nx2_lm { font-weight : bold; }
+  .piu_nx2_no{ color : yellow; }
+  .piu_nx2_hd{ color : royalblue; }
+  .piu_nx2_cz{ color : red;}
+  .piu_nx2_fs{ color : lime;}
+  .piu_nx2_nm{ color : mediumpurple; }
+  .piu_nx2_lm{ color : cyan; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td, song;
   $.ajax({
     async : false,
-    url : "doc/work/piu_nx_2/piu_nx_2_data.txt",
+    url : "doc/work/piu_nx2/piu_nx2_data.txt",
     success : function(rs) {
-      tb = $("#piu_nx_2_tb tbody");
+      tb = $("#piu_nx2_tb tbody");
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
         tr = $("<tr>");
@@ -55,17 +55,17 @@
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j].includes("Normal")){
-            td.addClass("piu_nx_2_no");
+            td.addClass("piu_nx2_no");
           }else if(dt_td[j].includes("Hard")){
-            td.addClass("piu_nx_2_hd");
+            td.addClass("piu_nx2_hd");
           }else if(dt_td[j].includes("Crazy")){
-            td.addClass("piu_nx_2_cz");
+            td.addClass("piu_nx2_cz");
           }else if(dt_td[j].includes("Freestyle")){
-            td.addClass("piu_nx_2_fs");
+            td.addClass("piu_nx2_fs");
           }else if(dt_td[j].includes("Nightmare")){
-            td.addClass("piu_nx_2_nm");
+            td.addClass("piu_nx2_nm");
           }else if(dt_td[j].includes("LightMap")){
-            td.addClass("piu_nx_2_lm");
+            td.addClass("piu_nx2_lm");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
