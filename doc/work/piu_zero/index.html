@@ -29,11 +29,12 @@
   #piu_zero_tb tbody td {
     padding : 0 1em;
   }
-  .piu_zero_ez, .piu_zero_hd, .piu_zero_cz, .piu_zero_nm { font-weight : bold; }
+  .piu_zero_ez, .piu_zero_hd, .piu_zero_cz, .piu_zero_nm, .piu_zero_lm { font-weight : bold; }
   .piu_zero_ez{ color : hotpink; }
   .piu_zero_hd{ color : blue; }
-  .piu_zero_cz{ color : dodgerblue;}
-  .piu_zero_nm{ color : darkorchid; }
+  .piu_zero_cz{ color : red;}
+  .piu_zero_nm{ color : purple; }
+  .piu_zero_lm{ color : mint; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td, song;
@@ -53,15 +54,15 @@
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j] == "Easy"){
-            td.addClass("dmt3_ez");
+            td.addClass("piu_zero_ez");
           }else if(dt_td[j] == "Hard"){
-            td.addClass("dmt3_hd");
-          }else if(dt_td[j] == "Crezy"){
-            td.addClass("dmt3_cz");
-          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
-            td.addClass("dmt3_nm");
+            td.addClass("piu_zero_hd");
+          }else if(dt_td[j] == "Crazy"){
+            td.addClass("piu_zero_cz");
+          }else if(dt_td[j].includes("Nightmare")){
+            td.addClass("piu_zero_nm");
           }else if(dt_td[j] == "LightMap"){
-            td.addClass("dmt3_lm");
+            td.addClass("piu_zero_lm");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
