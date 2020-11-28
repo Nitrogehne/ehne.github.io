@@ -1,0 +1,66 @@
+무혼(武魂) 1.5 (Solitary 1.5)|Crazy|
+무혼(武魂) 1.5 (Solitary 1.5)|Nightmare|
+무혼(武魂) 1.5 (Solitary 1.5)|LightMap|
+Caprice Of Otada|LightMap|
+반갑습니다 (Nice To Meet You)|Hard|
+반갑습니다 (Nice To Meet You)|Nightmare|
+반갑습니다 (Nice To Meet You)|LightMap|
+아주 오래된 연인들 (Very Old Couples)|Normal|
+아주 오래된 연인들 (Very Old Couples)|Hard|
+아주 오래된 연인들 (Very Old Couples)|Crazy|
+아주 오래된 연인들 (Very Old Couples)|Freestyle|
+아주 오래된 연인들 (Very Old Couples)|Nightmare|
+아주 오래된 연인들 (Very Old Couples)|LightMap|
+햇살 좋은날 (Shiny Day)|Nightmare|
+햇살 좋은날 (Shiny Day)|LightMap|
+Faster Z|Normal|
+Faster Z|Hard|
+Faster Z|Crazy|
+Faster Z|Freestyle|
+Faster Z|Nightmare|
+Faster Z|LightMap|
+후회 (Compunction)|LightMap|
+Feel The Soul|Normal|
+Feel The Soul|Hard|
+Feel The Soul|Crazy|
+Feel The Soul|Freestyle|
+Feel The Soul|Nightmare|
+Feel The Soul|LightMap|
+Energizer|Normal|
+Energizer|Hard|
+Energizer|Crazy|
+Energizer|Freestyle|
+Energizer|Nightmare|
+Energizer|LightMap|
+그래서 (So)|Another Normal|
+그래서 (So)|Another Hard|
+그래서 (So)|Another Crazy|
+그래서 (So)|Another Freestyle|
+그래서 (So)|Another Nightmare|
+Come To Me|Another Hard|
+Come To Me|Another Crazy|
+Come To Me|Another Nightmare|
+Come To Me|Another LightMap|
+미운 오리새끼 (Ugly Dee)|Another Freestyle|
+미운 오리새끼 (Ugly Dee)|Another Nightmare|
+미운 오리새끼 (Ugly Dee)|Another LightMap|
+불놀이야 (Fire Game)|Another Hard|
+불놀이야 (Fire Game)|Another Crazy|
+불놀이야 (Fire Game)|Another Nightmare|
+A. U Ready?|Another Freestyle|
+A. U Ready?|Another Nightmare|
+Banya-P Guitar Remix|Crazy|
+Banya-P Guitar Remix|Nightmare|
+Banya-P Guitar Remix|LightMap|
+NX2 K-Pop Remix 1|Hard|
+NX2 K-Pop Remix 1|Crazy|
+NX2 K-Pop Remix 1|Freestyle|
+NX2 K-Pop Remix 1|Nightmare|
+NX2 K-Pop Remix 1|LightMap|
+NX2 K-Pop Remix 2|Hard|
+NX2 K-Pop Remix 2|Nightmare|
+NX2 K-Pop Remix 2|LightMap|
+Training Station|No. 37-1, 2, 3|
+Training Station|No. 40-1, 2|
+Training Station|No. 40-3|
+World Max|151 Missions (by N)|
