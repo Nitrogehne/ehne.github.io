@@ -1,14 +1,14 @@
-Witch Doctor #1|Crazy|
-Witch Doctor #1|Nightmare|
+Witch Doctor #1|Crazy|https://www.youtube.com/watch?v=9UKIitjxZtU&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Witch Doctor #1|Nightmare|https://www.youtube.com/watch?v=z4knqppaCBQ&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Witch Doctor #1|LightMap|
-Arch of Darkness|Normal|
-Arch of Darkness|Crazy|
+Arch of Darkness|Normal|https://www.youtube.com/watch?v=2gENRCPPYPs&ab_channel=ArudoRLZ
+Arch of Darkness|Crazy|https://www.youtube.com/watch?v=WZGzTktwewo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Arch of Darkness|LightMap|
-Chimera|Crazy|
-Chimera|Nightmare|
+Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Chimera|Nightmare|https://www.youtube.com/watch?v=RG4l9uYE2Yk&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Chimera|LightMap|
-Go Back|Hard|
-Go Back|Crazy|
+Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
+Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
 Go Back|Nightmare|
 Go Back|LightMap|
 Fly|Hard|
