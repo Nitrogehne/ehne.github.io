@@ -1,0 +1,81 @@
+<article id="piu_zero">
+<h1>Pump It Up ZERO</h1>
+<table id="piu_zero_tb">
+  <thead>
+    <tr>
+      <th>Music</th>
+      <th>Mode</th>
+      <th>YouTube</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</article>
+<style>
+  #piu_zero_tb {
+    border-width: 3px;
+    padding: 0 1em;
+    margin : auto;
+    border-collapse : collapse; 
+  }
+  #piu_zero_tb thead {
+    
+  }
+  #piu_zero_tb tbody tr.song_div {
+    border-top-width : 1px;
+    border-top-style : solid;
+  }
+  #piu_zero_tb tbody td {
+    padding : 0 1em;
+  }
+  .piu_zero_ez, .piu_zero_hd, .piu_zero_cz, .piu_zero_fs .piu_zero_nm .piu_zero_wm { font-weight : bold; }
+  .piu_zero_st{ color : hotpink; }
+  .piu_zero_nm{ color : yellow; }
+  .piu_zero_hd{ color : dodgerblue;}
+  .piu_zero_mx{ color : orangered; }
+  .piu_zero_ex{ color : darkorchid; }
+</style>
+<script>
+  var tb, tr, dt_tr, td, dt_td, song;
+  $.ajax({
+    async : false,
+    url : "doc/work/dmt3/dmt3_data.txt",
+    success : function(rs) {
+      tb = $("#dmt3_tb tbody");
+      dt_tr = rs.split("\n");
+      for(let i = 0; i < dt_tr.length; i++){
+        tr = $("<tr>");
+        dt_td = dt_tr[i].split("|");
+        if(song != dt_td[0]) {
+          tr.addClass("song_div");
+        }
+        song = dt_td[0];
+        for(let j = 0; j < dt_td.length; j++){
+          td = $("<td>").text(dt_td[j]);
+          if(dt_td[j] == "Star"){
+            td.addClass("dmt3_st");
+          }else if(dt_td[j] == "NM"){
+            td.addClass("dmt3_nm");
+          }else if(dt_td[j] == "HD"){
+            td.addClass("dmt3_hd");
+          }else if(dt_td[j] == "MX"){
+            td.addClass("dmt3_mx");
+          }else if(dt_td[j] == "EX"){
+            td.addClass("dmt3_ex");
+          }else if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }
+          tr.append(td);
+        }
+        if(dt_td[0] != ""){
+          tb.append(tr);
+        }
+      }
+    },
+    complete : function(rs) {
+    },
+    error : function(rs) {
+    }
+  });
+</script>
