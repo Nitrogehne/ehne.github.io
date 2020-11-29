@@ -23,7 +23,7 @@ Arch of Darkness|LightMap|
 Bust Back|Nightmare|
 Bust Back|LightMap|
 Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Chimera|Nightmare|https://www.youtube.com/watch?v=RG4l9uYE2Yk&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Chimera|Nightmare|https://www.youtube.com/watch?v=2enPVXnnqB4&ab_channel=%ED%94%BC%ED%8E%A8%EC%A6%88FEFEMZ
 Chimera|LightMap|
 Final Audition Episode 2-1|Normal|
 Final Audition Episode 2-1|Hard|
