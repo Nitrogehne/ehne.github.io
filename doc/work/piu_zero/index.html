@@ -26,6 +26,10 @@
     border-top-width : 1px;
     border-top-style : solid;
   }
+  #piuz_zero_td tbody tr.head td {
+    background-color : gray;
+    color : #fff;
+  }
   #piu_zero_tb tbody td {
     padding : 0 1em;
   }
@@ -54,9 +58,10 @@
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j].includes("\b")){
-            td.addClass("piu_zero_b");
+            tr.addClass("head");
             td.text(td.text().replace("\b", ""));
-          }else if(dt_td[j].includes("youtube")){
+          }
+          if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }else if(dt_td[j].includes("Easy")){
             td.addClass("piu_zero_ez");
