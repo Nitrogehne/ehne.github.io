@@ -53,7 +53,9 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("Star")){
+          if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j].includes("Star")){
             td.addClass("dm_t3_st");
           }else if(dt_td[j].includes("NM")){
             td.addClass("dm_t3_nm");
@@ -63,8 +65,6 @@
             td.addClass("dm_t3_mx");
           }else if(dt_td[j].includes("EX")){
             td.addClass("dm_t3_ex");
-          }else if(dt_td[j].includes("youtube")){
-            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
           tr.append(td);
         }
