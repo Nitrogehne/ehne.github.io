@@ -59,7 +59,7 @@ Special Zone||
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
 Bee|Another Freestyle|
 Bee|Another LightMap|
-Shake It Up|Another Crazy|
+Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel=%EB%B0%80%EB%A6%AC%EC%95%84MILLIA
 Shake It Up|Another Nightmare|
 Shake It Up|Another LightMap|
 World Tour|102 Missions|
