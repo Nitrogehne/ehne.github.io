@@ -63,15 +63,15 @@
             td.text("");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
-          }else if(dt_td[j].includes("Easy")){
+          }else if(dt_td[j] == "Easy"){
             td.addClass("piu_zero_ez");
-          }else if(dt_td[j].includes("Hard")){
+          }else if(dt_td[j] == "Hard"){
             td.addClass("piu_zero_hd");
-          }else if(dt_td[j].includes("Crazy")){
+          }else if(dt_td[j] == "Crazy"){
             td.addClass("piu_zero_cz");
-          }else if(dt_td[j].includes("Nightmare")){
+          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
             td.addClass("piu_zero_nm");
-          }else if(dt_td[j].includes("LightMap")){
+          }else if(dt_td[j] == "LightMap"){
             td.addClass("piu_zero_lm");
           }
           tr.append(td);
