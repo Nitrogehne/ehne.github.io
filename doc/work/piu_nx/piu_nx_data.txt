@@ -9,7 +9,7 @@ Chimera|Nightmare|https://www.youtube.com/watch?v=RG4l9uYE2Yk&ab_channel=%EB%84%
 Chimera|LightMap|
 Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
 Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
-Go Back|Nightmare|
+Go Back|Nightmare|https://www.youtube.com/watch?v=F0E_39u2XY0&ab_channel=Thumbsy
 Go Back|LightMap|
 Fly|Hard|
 Fly|LightMap|
