@@ -60,7 +60,7 @@ NX2 K-Pop Remix 1|LightMap|
 NX2 K-Pop Remix 2|Hard|
 NX2 K-Pop Remix 2|Nightmare|
 NX2 K-Pop Remix 2|LightMap|
-Training Station|No. 37-1, 2, 3|
-Training Station|No. 40-1, 2|
-Training Station|No. 40-3|
+Training Station|No. 37|
+Training Station|No. 40|
+Pumptris Quattro|No. 40-3|
 World Max|151 Missions (by N)|
