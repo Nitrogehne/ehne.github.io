@@ -1,6 +1,6 @@
-<article id="dmt_3">
+<article id="dm_t3">
 <h1>DJMAX TECHNIKA 3</h1>
-<table id="dmt_3_tb">
+<table id="dm_t3_tb">
   <thead>
     <tr>
       <th>Music</th>
@@ -13,36 +13,36 @@
 </table>
 </article>
 <style>
-  #dmt_3_tb {
+  #dm_t3_tb {
     border-width: 3px;
     padding: 0 1em;
     margin : auto;
     border-collapse : collapse; 
   }
-  #dmt_3_tb thead {
+  #dm_t3_tb thead {
     
   }
-  #dmt_3_tb tbody tr.song_div {
+  #dm_t3_tb tbody tr.song_div {
     border-top-width : 1px;
     border-top-style : solid;
   }
-  #dmt_3_tb tbody td {
+  #dm_t3_tb tbody td {
     padding : 0 1em;
   }
-  .dmt_3_st, .dmt_3_nm, .dmt_3_hd, .dmt_3_mx, .dmt_3_ex { font-weight : bold; }
-  .dmt_3_st{ color : hotpink; }
-  .dmt_3_nm{ color : lemonchiffon; }
-  .dmt_3_hd{ color : dodgerblue;}
-  .dmt_3_mx{ color : orangered; }
-  .dmt_3_ex{ color : darkorchid; }
+  .dm_t3_st, .dm_t3_nm, .dm_t3_hd, .dm_t3_mx, .dm_t3_ex { font-weight : bold; }
+  .dm_t3_st{ color : hotpink; }
+  .dm_t3_nm{ color : lemonchiffon; }
+  .dm_t3_hd{ color : dodgerblue;}
+  .dm_t3_mx{ color : orangered; }
+  .dm_t3_ex{ color : darkorchid; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td, song;
   $.ajax({
     async : false,
-    url : "doc/work/dmt_3/dmt_3_data.txt",
+    url : "doc/work/dm_t3/dm_t3_data.txt",
     success : function(rs) {
-      tb = $("#dmt_3_tb tbody");
+      tb = $("#dm_t3_tb tbody");
       dt_tr = rs.split("\n");
       for(let i = 0; i < dt_tr.length; i++){
         tr = $("<tr>");
@@ -53,16 +53,16 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j] == "Star"){
-            td.addClass("dmt_3_st");
-          }else if(dt_td[j] == "NM"){
-            td.addClass("dmt_3_nm");
-          }else if(dt_td[j] == "HD"){
-            td.addClass("dmt_3_hd");
-          }else if(dt_td[j] == "MX"){
-            td.addClass("dmt_3_mx");
-          }else if(dt_td[j] == "EX"){
-            td.addClass("dmt_3_ex");
+          if(dt_td[j].includes("Star")){
+            td.addClass("dm_t3_st");
+          }else if(dt_td[j].includes("NM")){
+            td.addClass("dm_t3_nm");
+          }else if(dt_td[j].includes("HD")){
+            td.addClass("dm_t3_hd");
+          }else if(dt_td[j].includes("MX")){
+            td.addClass("dm_t3_mx");
+          }else if(dt_td[j].includes("EX")){
+            td.addClass("dm_t3_ex");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
