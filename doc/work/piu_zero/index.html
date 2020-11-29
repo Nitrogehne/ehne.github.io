@@ -29,7 +29,7 @@
   #piu_zero_tb tbody td {
     padding : 0 1em;
   }
-  .piu_zero_ez, .piu_zero_hd, .piu_zero_cz, .piu_zero_nm, .piu_zero_lm { font-weight : bold; }
+  .piu_zero_b, .piu_zero_ez, .piu_zero_hd, .piu_zero_cz, .piu_zero_nm, .piu_zero_lm { font-weight : bold; }
   .piu_zero_ez{ color : hotpink; }
   .piu_zero_hd{ color : dodgerblue; }
   .piu_zero_cz{ color : orangered;}
@@ -53,18 +53,20 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j] == "Easy"){
+          if(dt_td[j].includes("\b")){
+             td.addClass("piu_zero_b");
+          }else if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j].includes("Easy")){
             td.addClass("piu_zero_ez");
-          }else if(dt_td[j] == "Hard"){
+          }else if(dt_td[j].includes("Hard")){
             td.addClass("piu_zero_hd");
-          }else if(dt_td[j] == "Crazy"){
+          }else if(dt_td[j].includes("Crazy")){
             td.addClass("piu_zero_cz");
           }else if(dt_td[j].includes("Nightmare")){
             td.addClass("piu_zero_nm");
-          }else if(dt_td[j] == "LightMap"){
+          }else if(dt_td[j].includes("LightMap")){
             td.addClass("piu_zero_lm");
-          }else if(dt_td[j].includes("youtube")){
-            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
           tr.append(td);
         }
