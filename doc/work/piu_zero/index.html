@@ -57,9 +57,9 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("\h")){
+          if(dt_td[j].match(/^_H/)){
             tr.addClass("head");
-            td.text(td.text().replace("\h", ""));
+            td.text(td.text().replace(/^_H/, ""));
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }else if(dt_td[j].includes("Easy")){
