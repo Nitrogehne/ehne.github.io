@@ -54,7 +54,9 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("Normal")){
+          if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j].includes("Normal")){
             td.addClass("piu_nx_no");
           }else if(dt_td[j].includes("Hard")){
             td.addClass("piu_nx_hd");
@@ -66,8 +68,6 @@
             td.addClass("piu_nx_nm");
           }else if(dt_td[j].includes("LightMap")){
             td.addClass("piu_nx_lm");
-          }else if(dt_td[j].includes("youtube")){
-            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }
           tr.append(td);
         }
