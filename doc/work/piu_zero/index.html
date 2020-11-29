@@ -60,8 +60,7 @@
           if(dt_td[j].includes("\h")){
             tr.addClass("head");
             td.text(td.text().replace("\h", ""));
-          }
-          if(dt_td[j].includes("youtube")){
+          }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }else if(dt_td[j].includes("Easy")){
             td.addClass("piu_zero_ez");
