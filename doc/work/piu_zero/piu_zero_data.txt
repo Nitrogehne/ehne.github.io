@@ -1,12 +1,12 @@
-\bEasy Station|\b3 Modes|
+\hEasy Station|3 Modes|
 Final Audition|Easy|제보 바랍니다.
 Point Break|Easy|제보 바랍니다.
 Turkey March|Easy|제보 바랍니다.
-\bArcade Station|\b2 Modes|
+\hArcade Station|2 Modes|
 님과 함께(With My Lover)|Nightmare|https://www.youtube.com/watch?v=etiL0EB1wZg&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Up Up|Crazy|https://www.youtube.com/watch?v=E0RVI4u8BkU&ab_channel=JosephKim
 Up Up|LightMap|
-\bAnother Step|\b1 Mode|
+\hAnother Step|1 Mode|
 Vook|Another Nightmare|https://www.youtube.com/watch?v=KoM1goaj6-0&t=8s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-\bRemix Station|\b1 Mode|
+\hRemix Station|1 Mode|
 ZERO K-HOUSE MIX|Hard|https://www.youtube.com/watch?v=4HzPC6KhvtU&ab_channel=JosephKim
