@@ -54,7 +54,8 @@
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
           if(dt_td[j].includes("\b")){
-             td.addClass("piu_zero_b");
+            td.addClass("piu_zero_b");
+            td.text(td.text().replace("\b", ""));
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }else if(dt_td[j].includes("Easy")){
