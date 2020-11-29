@@ -1,49 +1,30 @@
-Witch Doctor #1|Crazy|https://www.youtube.com/watch?v=9UKIitjxZtU&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Witch Doctor #1|Nightmare|https://www.youtube.com/watch?v=z4knqppaCBQ&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Witch Doctor #1|LightMap|
-Arch of Darkness|Normal|https://www.youtube.com/watch?v=2gENRCPPYPs&ab_channel=ArudoRLZ
-Arch of Darkness|Crazy|https://www.youtube.com/watch?v=WZGzTktwewo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Arch of Darkness|LightMap|
-Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Chimera|Nightmare|https://www.youtube.com/watch?v=RG4l9uYE2Yk&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Chimera|LightMap|
-Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
-Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
-Go Back|Nightmare|https://www.youtube.com/watch?v=F0E_39u2XY0&ab_channel=Thumbsy
-Go Back|LightMap|
-Fly|Hard|https://www.youtube.com/watch?v=OQ_eD-Kk40A&ab_channel=KanauruProductions
-Fly|LightMap|
-One Night|Crazy|https://www.youtube.com/watch?v=A9D8WcxbVMA&ab_channel=bebupiu
-One Night|Nightmare|https://www.youtube.com/watch?v=DbITlkVSAcc&ab_channel=MeChrisLee
-One Night|LightMap|
-흐린 기억속의 그대 (U Inside My Dim Memory)|Hard|https://www.youtube.com/watch?v=mZjz3l-CZEI&ab_channel=ArudoRLZ
-흐린 기억속의 그대 (U Inside My Dim Memory)|Crazy|https://www.youtube.com/watch?v=z5gE1XeryhQ&ab_channel=speedpump
-흐린 기억속의 그대 (U Inside My Dim Memory)|Nightmare|https://www.youtube.com/watch?v=-JksHLQr0jw&ab_channel=Valius
-흐린 기억속의 그대 (U Inside My Dim Memory)|LightMap|
-자유로와 (Free!)|Freestyle|제보 바랍니다.
-자유로와 (Free!)|LightMap|
+사랑가 2006 (Love Song 2006)|Nightmare|
+사랑가 2006 (Love Song 2006)|LightMap|
 사랑스러워 (Lovely)|Nightmare|
 사랑스러워 (Lovely)|LightMap|
+자유로와 (Free!)|Freestyle|제보 바랍니다.
+자유로와 (Free!)|LightMap|
 종점 보관소 (Terminal Depository)|Crazy|
 종점 보관소 (Terminal Depository)|Nightmare|
 종점 보관소 (Terminal Depository)|LightMap|
-Snow Dream|Hard|
-Snow Dream|LightMap|
-사랑가 2006 (Love Song 2006)|Nightmare|
-사랑가 2006 (Love Song 2006)|LightMap|
 투우사의 노래 (Bullfighter's Song)|Hard|
 투우사의 노래 (Bullfighter's Song)|Crazy|
 투우사의 노래 (Bullfighter's Song)|LightMap|
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Crazy|
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Freestyle|
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|LightMap|
-Hold The Line|Nightmare|
-Hold The Line|LightMap|
+흐린 기억속의 그대 (U Inside My Dim Memory)|Hard|https://www.youtube.com/watch?v=mZjz3l-CZEI&ab_channel=ArudoRLZ
+흐린 기억속의 그대 (U Inside My Dim Memory)|Crazy|https://www.youtube.com/watch?v=z5gE1XeryhQ&ab_channel=speedpump
+흐린 기억속의 그대 (U Inside My Dim Memory)|Nightmare|https://www.youtube.com/watch?v=-JksHLQr0jw&ab_channel=Valius
+흐린 기억속의 그대 (U Inside My Dim Memory)|LightMap|
+Arch of Darkness|Normal|https://www.youtube.com/watch?v=2gENRCPPYPs&ab_channel=ArudoRLZ
+Arch of Darkness|Crazy|https://www.youtube.com/watch?v=WZGzTktwewo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Arch of Darkness|LightMap|
 Bust Back|Nightmare|
 Bust Back|LightMap|
-We Goin' Fly Remix|Crazy|
-We Goin' Fly Remix|Nightmare|
-We Goin' Fly Remix|LightMap|
+Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Chimera|Nightmare|https://www.youtube.com/watch?v=RG4l9uYE2Yk&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Chimera|LightMap|
 Final Audition Episode 2-1|Normal|
 Final Audition Episode 2-1|Hard|
 Final Audition Episode 2-1|Crazy|
@@ -54,6 +35,25 @@ Final Audition Episode 2-2|Hard|
 Final Audition Episode 2-2|Crazy|
 Final Audition Episode 2-2|Freestyle|
 Final Audition Episode 2-2|Nightmare|
+Fly|Hard|https://www.youtube.com/watch?v=OQ_eD-Kk40A&ab_channel=KanauruProductions
+Fly|LightMap|
+Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
+Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
+Go Back|Nightmare|https://www.youtube.com/watch?v=F0E_39u2XY0&ab_channel=Thumbsy
+Go Back|LightMap|
+Hold The Line|Nightmare|
+Hold The Line|LightMap|
+One Night|Crazy|https://www.youtube.com/watch?v=A9D8WcxbVMA&ab_channel=bebupiu
+One Night|Nightmare|https://www.youtube.com/watch?v=DbITlkVSAcc&ab_channel=MeChrisLee
+One Night|LightMap|
+Snow Dream|Hard|
+Snow Dream|LightMap|
+Witch Doctor #1|Crazy|https://www.youtube.com/watch?v=9UKIitjxZtU&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Witch Doctor #1|Nightmare|https://www.youtube.com/watch?v=z4knqppaCBQ&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Witch Doctor #1|LightMap|
+We Goin' Fly Remix|Crazy|
+We Goin' Fly Remix|Nightmare|
+We Goin' Fly Remix|LightMap|
 Special Zone||
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
