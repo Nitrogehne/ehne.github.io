@@ -26,6 +26,11 @@
     border-top-width : 1px;
     border-top-style : solid;
   }
+  #piu_nx_tb tbody tr.head td {
+    background-color : #222;
+    color : #fff;
+    font-weight : bold;
+  }
   #piu_nx_tb tbody td {
     padding : 0 1em;
   }
@@ -54,19 +59,22 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("youtube")){
+          if(dt_td[j] == "_H"){
+            tr.addClass("head");
+            td.text("");
+          }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
-          }else if(dt_td[j].includes("Normal")){
+          }else if(dt_td[j] == "Normal"){
             td.addClass("piu_nx_no");
-          }else if(dt_td[j].includes("Hard")){
+          }else if(dt_td[j] == "Hard"){
             td.addClass("piu_nx_hd");
-          }else if(dt_td[j].includes("Crazy")){
+          }else if(dt_td[j] == "Crazy" || dt_td[j] == "Another Crazy"){
             td.addClass("piu_nx_cz");
-          }else if(dt_td[j].includes("Freestyle")){
+          }else if(dt_td[j] == "Freestyle" || dt_td[j] == "Another Freestyle"){
             td.addClass("piu_nx_fs");
-          }else if(dt_td[j].includes("Nightmare")){
+          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
             td.addClass("piu_nx_nm");
-          }else if(dt_td[j].includes("LightMap")){
+          }else if(dt_td[j] == "LightMap" || dt_td[j] == "Another LightMap"){
             td.addClass("piu_nx_lm");
           }
           tr.append(td);
