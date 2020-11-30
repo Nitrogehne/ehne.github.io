@@ -3,7 +3,7 @@ Arcade Station||_H
 사랑가 2006 (Love Song 2006)|LightMap|
 사랑스러워 (Lovely)|Nightmare|
 사랑스러워 (Lovely)|LightMap|
-자유로와 (Free!)|Freestyle|제보 바랍니다.
+자유로와 (Free!)|Freestyle|
 자유로와 (Free!)|LightMap|
 종점 보관소 (Terminal Depository)|Crazy|
 종점 보관소 (Terminal Depository)|Nightmare|
