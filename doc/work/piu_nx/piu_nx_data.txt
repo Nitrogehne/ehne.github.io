@@ -1,3 +1,4 @@
+Arcade Station||_H
 사랑가 2006 (Love Song 2006)|Nightmare|
 사랑가 2006 (Love Song 2006)|LightMap|
 사랑스러워 (Lovely)|Nightmare|
@@ -54,7 +55,7 @@ Witch Doctor #1|LightMap|
 We Goin' Fly Remix|Crazy|
 We Goin' Fly Remix|Nightmare|
 We Goin' Fly Remix|LightMap|
-Special Zone||
+Another Step|3 Modes|_H
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
 Bee|Another Freestyle|
@@ -62,4 +63,4 @@ Bee|Another LightMap|
 Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel=%EB%B0%80%EB%A6%AC%EC%95%84MILLIA
 Shake It Up|Another Nightmare|
 Shake It Up|Another LightMap|
-World Tour|102 Missions|
+World Tour|102 Missions|_H
