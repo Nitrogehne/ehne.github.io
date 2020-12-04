@@ -1,4 +1,4 @@
-Arcade Station||_H
+Arcade Station|25 Modes|_H
 무혼(武魂) 1.5 (Solitary 1.5)|Crazy|https://www.youtube.com/watch?v=8AG20sDpf_o&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 무혼(武魂) 1.5 (Solitary 1.5)|Nightmare|https://www.youtube.com/watch?v=-KzL4DC8tzk&t=7s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 무혼(武魂) 1.5 (Solitary 1.5)|LightMap|
@@ -33,7 +33,7 @@ Feel The Soul|Crazy|
 Feel The Soul|Freestyle|
 Feel The Soul|Nightmare|
 Feel The Soul|LightMap|
-Special Station / Another Step||_H
+Special Station / Another|15 Modes|_H
 그래서 (So)|Another Normal|
 그래서 (So)|Another Hard|
 그래서 (So)|Another Crazy|
@@ -51,7 +51,7 @@ Come To Me|Another Hard|
 Come To Me|Another Crazy|
 Come To Me|Another Nightmare|
 Come To Me|Another LightMap|
-Special Station / Remix||_H
+Special Station / Remix|8 Modes|_H
 Banya-P Guitar Remix|Crazy|
 Banya-P Guitar Remix|Nightmare|
 Banya-P Guitar Remix|LightMap|
@@ -63,6 +63,6 @@ NX2 K-Pop Remix 1|LightMap|
 NX2 K-Pop Remix 2|Hard|
 NX2 K-Pop Remix 2|Nightmare|
 NX2 K-Pop Remix 2|LightMap|
-Training Station|No. 37, 40|_H
+Training Station|No. 37, 40 (6 Modes)|_H
 Pumptris Quattro|No. 40-3|
 World Max|151 Missions (by N)|_H
