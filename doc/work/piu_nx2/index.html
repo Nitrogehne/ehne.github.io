@@ -88,22 +88,31 @@
             td.addClass("piu_nx2_lm");
           }else if(dt_td[j].includes("Rootinia : ")){
             td.addClass("piu_nx2_ro");
+            td.text(td.text().replace("Rootinia : ", ""));
           }else if(dt_td[j].includes("Shantomia : ")){
             td.addClass("piu_nx2_sh");
+            td.text(td.text().replace("Shantomia : ", ""));
           }else if(dt_td[j].includes("Phantomia : ")){
             td.addClass("piu_nx2_ph");
+            td.text(td.text().replace("Phantomia : ", ""));
           }else if(dt_td[j].includes("Mirtain : ")){
             td.addClass("piu_nx2_mi");
+            td.text(td.text().replace("Mirtain : ", ""));
           }else if(dt_td[j].includes("Barharn : ")){
             td.addClass("piu_nx2_ba");
+            td.text(td.text().replace("Barharn : ", ""));
           }else if(dt_td[j].includes("Harena : ")){
             td.addClass("piu_nx2_ha");
+            td.text(td.text().replace("Harena : ", ""));
           }else if(dt_td[j].includes("Morigin : ")){
             td.addClass("piu_nx2_mo");
+            td.text(td.text().replace("Morigin : ", ""));
           }else if(dt_td[j].includes("Cryomiston : ")){
             td.addClass("piu_nx2_cr");
+            td.text(td.text().replace("Cryomiston : ", ""));
           }else if(dt_td[j].includes("Prue Ocean : ")){
             td.addClass("piu_nx2_pr");
+            td.text(td.text().replace("Prue Ocean : ", ""));
           }
           tr.append(td);
         }
