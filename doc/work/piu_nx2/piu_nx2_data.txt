@@ -8,7 +8,7 @@ Arcade Station|25 Modes|_H
 아주 오래된 연인들 (Very Old Couples)|Normal|
 아주 오래된 연인들 (Very Old Couples)|Hard|
 아주 오래된 연인들 (Very Old Couples)|Crazy|
-아주 오래된 연인들 (Very Old Couples)|Freestyle|
+아주 오래된 연인들 (Very Old Couples)|Freestyle|https://www.youtube.com/watch?v=S_p74QjvyWA&ab_channel=SangjoonYoo
 아주 오래된 연인들 (Very Old Couples)|Nightmare|
 아주 오래된 연인들 (Very Old Couples)|LightMap|
 햇살 좋은날 (Shiny Day)|Nightmare|
@@ -66,3 +66,154 @@ NX2 K-Pop Remix 2|LightMap|
 Training Station|No. 37, 40 (6 Modes)|_H
 Pumptris Quattro|No. 40-3|
 World Max|151 Missions (by N)|_H
+First Step|Ro|
+Never Die|Ro|
+Routine 4|Ro|
+Basic|Ro|
+* Overdeath|Ro|
+Mon*ey|Ro|
+Alteration|Ro|
+Routine 5|Ro|
+Quattro|Ro|
+Mix Up 2|Ro|
+1st Audition|Ro|
+Mirror|Ro|
+Routine 6|Ro|
+Short Term Memory|Ro|
+Routine 7|Ro|
+Mix Up 3|Ro|
+[ Temple ]|Ro|
+Swan|Ro|
+[ Castle ]|Ro|
+Nightmare Beat|Ro|
+Non-Powerful|Ro|
+Routine 8|Sh|
+Vanish|Sh|
+Dance|Sh|
+Throwaway|Sh|
+Astral|Sh|
+Light 2|Sh|
+Perplexity 3|Sh|
+BanYa M|Sh|
+Here & There|Sh|
+Mon*ey 2|Sh|
+The Left Foot|Sh|
+Sync|Sh|
+Nostalgia|Sh|
+Turn|Sh|
+Freestyle|Sh|
+Non-Powerful 2|Sh|
+Dance 2|Sh|
+2nd Audition|Sh|
+Nostalgia 2|Sh|
+Thrill|Sh|
+Swan 2|Sh|
+SG|Sh|
+Mix Up 4|Sh|
+Fork of a Road|Sh|
+Aqua Blue|Sh|
+* J. K. D.|Sh|
+Suddenly Appear 2|Sh|
+Fork of a Road 2|Sh|
+Ghost 2|Sh|
+B-O-Beat|Sh|
+[ Castle 2 ]|Sh|
+Perplexity 5|Mi|
+Perplexity 6|Mi|
++500|Mi|
+Suddenly Appear 3|Mi|
+Invisible Beat|Mi|
+Routine 9|Mi|
+Random Access|Mi|
+MX Style|Mi|
+Non-Powerful 3|Mi|
+Routine 10|Mi|
+[ Necropolis ]|Mi|
+Fire Fighting|Mi|
+Magma|Mi|
+Memorial Service|Mi|
+Bomb Beat|Mi|
+Hot Trill|Mi|
+BxB|Mi|
+Bullfighter S|Mi|
+Dead End|Mi|
+Set the Alarm|Mi|
+The Left Foot 2|Mi|
+Born of Earth|Mi|
+A.U.NE?|Mi|
+Heart's Gone|Mi|
+* Yahpp|Mi|
+Meteor|Mi|
+Life G|Mi|
+Sunlight|Mi|
+Armageddon|Mi|
+* Ehwa|Mi|
+[ Mir ]|Mi|
+Magma 2|Mi|
+Life G 2|Mi|
+Red!|Mi|
+Preservation|Ba|
+[ Whirlpool ]|Ba|
+Union|Ba|
+Remake 4 W|Ba|
+Blaze It Up|Ba|
+Fohn|Ba|
+* Ahgoo|Ba|
+Velocity 5|Ba|
+Born of Earth 2|Ba|
+[ D ]|Ba|
+Perfect Finish|Ha|
+N Desert|Ha|
+Born of Earth 3|Ha|
+Non-Powerful 6|Ha|
+Mine Removing 2|Ha|
+* Yasangma|Ha|
+* Bomb|Ha|
+[ Pyramid ]|Ha|
+Adversity|Ha|
+Floodtide|Ha|
+Adversity 2|Ha|
+Tidal Wave|Ha|
+3rd Audition|Ha|
+Avoid|Ha|
+Avoid 2|Ha|
+Miss S|Ha|
+Congestion|Mo|
+Non-Powerful 7|Mo|
+Double Expansion|Mo|
+S-Machine|Mo|
+Converter|Mo|
+Born of Earth 4|Mo|
+N 2|Mo|
+Resister 2|Mo|
+Separator|Mo|
+Paradox|Mo|
+Item War|Mo|
+Transducer|Mo|
+Born of Earth 5|Mo|
+* Ehne|Mo|
+[ Factory ]|Mo|
+Arrange|Mo|
+N|Mo|
+Snow Witch|Cr|
+White Night|Cr|
+Wuwang z Good z|Cr|
+Blizzard|Cr|
+Snow Monster|Cr|
+Icy Soul|Cr|
+Born of Earth 6|Cr|
+Crystal S|Cr|
+Crystal ES|Cr|
+Crystal E |Cr|
+Crystal WS|Cr|
+* B. P. M.|Cr|
+Crystal EN|Cr|
+ Crystal W|Cr|
+Crystal WN|Cr|
+[ Ice Castle ]|Cr|
+Blue Light|Cr|
+???|Pr|
+Staff Roll|Pr|
+Eraser|Pr|
+Mission Possible|Pr|
+Fire & Ice|Pr|
