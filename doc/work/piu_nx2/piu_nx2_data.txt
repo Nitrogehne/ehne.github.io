@@ -1,7 +1,7 @@
-무혼(武魂) 1.5 (Solitary 1.5)|Crazy|
+Arcade Station||_H
+무혼(武魂) 1.5 (Solitary 1.5)|Crazy|https://www.youtube.com/watch?v=8AG20sDpf_o&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 무혼(武魂) 1.5 (Solitary 1.5)|Nightmare|
 무혼(武魂) 1.5 (Solitary 1.5)|LightMap|
-Caprice Of Otada|LightMap|
 반갑습니다 (Nice To Meet You)|Hard|
 반갑습니다 (Nice To Meet You)|Nightmare|
 반갑습니다 (Nice To Meet You)|LightMap|
@@ -13,34 +13,32 @@ Caprice Of Otada|LightMap|
 아주 오래된 연인들 (Very Old Couples)|LightMap|
 햇살 좋은날 (Shiny Day)|Nightmare|
 햇살 좋은날 (Shiny Day)|LightMap|
-Faster Z|Normal|
-Faster Z|Hard|
-Faster Z|Crazy|
-Faster Z|Freestyle|
-Faster Z|Nightmare|
-Faster Z|LightMap|
 후회 (Compunction)|LightMap|
-Feel The Soul|Normal|
-Feel The Soul|Hard|
-Feel The Soul|Crazy|
-Feel The Soul|Freestyle|
-Feel The Soul|Nightmare|
-Feel The Soul|LightMap|
+Caprice Of Otada|LightMap|
 Energizer|Normal|
 Energizer|Hard|
 Energizer|Crazy|
 Energizer|Freestyle|
 Energizer|Nightmare|
 Energizer|LightMap|
+Faster Z|Normal|
+Faster Z|Hard|
+Faster Z|Crazy|
+Faster Z|Freestyle|
+Faster Z|Nightmare|
+Faster Z|LightMap|
+Feel The Soul|Normal|
+Feel The Soul|Hard|
+Feel The Soul|Crazy|
+Feel The Soul|Freestyle|
+Feel The Soul|Nightmare|
+Feel The Soul|LightMap|
+Special Station / Another Step||_H
 그래서 (So)|Another Normal|
 그래서 (So)|Another Hard|
 그래서 (So)|Another Crazy|
 그래서 (So)|Another Freestyle|
 그래서 (So)|Another Nightmare|
-Come To Me|Another Hard|
-Come To Me|Another Crazy|
-Come To Me|Another Nightmare|
-Come To Me|Another LightMap|
 미운 오리새끼 (Ugly Dee)|Another Freestyle|
 미운 오리새끼 (Ugly Dee)|Another Nightmare|
 미운 오리새끼 (Ugly Dee)|Another LightMap|
@@ -49,6 +47,11 @@ Come To Me|Another LightMap|
 불놀이야 (Fire Game)|Another Nightmare|
 A. U Ready?|Another Freestyle|
 A. U Ready?|Another Nightmare|
+Come To Me|Another Hard|
+Come To Me|Another Crazy|
+Come To Me|Another Nightmare|
+Come To Me|Another LightMap|
+Special Station / Remix||_H
 Banya-P Guitar Remix|Crazy|
 Banya-P Guitar Remix|Nightmare|
 Banya-P Guitar Remix|LightMap|
@@ -60,7 +63,6 @@ NX2 K-Pop Remix 1|LightMap|
 NX2 K-Pop Remix 2|Hard|
 NX2 K-Pop Remix 2|Nightmare|
 NX2 K-Pop Remix 2|LightMap|
-Training Station|No. 37|
-Training Station|No. 40|
+Training Station|No. 37, 40|_H
 Pumptris Quattro|No. 40-3|
-World Max|151 Missions (by N)|
+World Max|151 Missions (by N)|_H
