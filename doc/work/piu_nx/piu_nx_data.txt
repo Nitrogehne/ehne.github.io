@@ -57,7 +57,7 @@ Witch Doctor #1|LightMap|
 We Goin' Fly Remix|Crazy|
 We Goin' Fly Remix|Nightmare|
 We Goin' Fly Remix|LightMap|
-Special Station / Another Step|3 Modes|_H
+Special Station / Another|3 Modes|_H
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
 Bee|Another Freestyle|
