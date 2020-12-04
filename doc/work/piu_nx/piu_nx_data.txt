@@ -1,4 +1,4 @@
-Arcade Station||_H
+Arcade Station|39 Modes|_H
 사랑가 2006 (Love Song 2006)|Nightmare|
 사랑가 2006 (Love Song 2006)|LightMap|
 사랑스러워 (Lovely)|Nightmare|
@@ -31,11 +31,13 @@ Final Audition Episode 2-1|Hard|
 Final Audition Episode 2-1|Crazy|
 Final Audition Episode 2-1|Freestyle|
 Final Audition Episode 2-1|Nightmare|
+Final Audition Episode 2-1|LightMap|
 Final Audition Episode 2-2|Normal|
 Final Audition Episode 2-2|Hard|
 Final Audition Episode 2-2|Crazy|
 Final Audition Episode 2-2|Freestyle|
 Final Audition Episode 2-2|Nightmare|
+Final Audition Episode 2-2|LightMap|
 Fly|Hard|https://www.youtube.com/watch?v=OQ_eD-Kk40A&ab_channel=KanauruProductions
 Fly|LightMap|
 Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
@@ -55,7 +57,7 @@ Witch Doctor #1|LightMap|
 We Goin' Fly Remix|Crazy|
 We Goin' Fly Remix|Nightmare|
 We Goin' Fly Remix|LightMap|
-Another Step|3 Modes|_H
+Special Station / Another Step|3 Modes|_H
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
 Bee|Another Freestyle|
