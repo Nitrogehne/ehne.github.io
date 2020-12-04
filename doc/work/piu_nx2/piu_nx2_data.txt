@@ -6,7 +6,7 @@ Arcade Station|25 Modes|_H
 반갑습니다 (Nice To Meet You)|Nightmare|https://www.youtube.com/watch?v=V3NOzCuXjTI&ab_channel=Valius
 반갑습니다 (Nice To Meet You)|LightMap|
 아주 오래된 연인들 (Very Old Couples)|Normal|
-아주 오래된 연인들 (Very Old Couples)|Hard|
+아주 오래된 연인들 (Very Old Couples)|Hard|https://www.youtube.com/watch?v=_dV_uJQia0Y&list=PLSB4K7Sjf1aM9-1BUlqvNuJOXO_a-czti&index=6&ab_channel=MeChrisLee
 아주 오래된 연인들 (Very Old Couples)|Crazy|
 아주 오래된 연인들 (Very Old Couples)|Freestyle|https://www.youtube.com/watch?v=S_p74QjvyWA&ab_channel=SangjoonYoo
 아주 오래된 연인들 (Very Old Couples)|Nightmare|
@@ -64,27 +64,27 @@ NX2 K-Pop Remix 2|Hard|
 NX2 K-Pop Remix 2|Nightmare|
 NX2 K-Pop Remix 2|LightMap|
 Training Station|No. 37, 40 (6 Modes)|_H
-Pumptris Quattro|No. 40-3|
+Pumptris Quattro|No. 40-3|https://www.youtube.com/watch?v=nbz_qer58C8&ab_channel=TigerYK
 World Max|151 Missions (by N)|_H
-Canon D|Rootinia : First Step|
-Beethoven Virus|Rootinia : Never Die|
+Canon D|Rootinia : First Step|https://youtu.be/F22IvEaoEAk?t=1712
+Beethoven Virus|Rootinia : Never Die|https://youtu.be/F22IvEaoEAk?t=1841
 Chopstix|Rootinia : Routine 4|
-영원한 사랑 (Forever Love)|Rootinia : Basic|
+영원한 사랑 (Forever Love)|Rootinia : Basic|https://youtu.be/F22IvEaoEAk?t=2244
 ZERO K-Hiphop Remix|Rootinia : * Overdeath|
 Money Fingers|Rootinia : Mon*ey|
 X-Treme|Rootinia : Alteration|
 Shake It Up|Rootinia : Routine 5|
 Pumptris Quattro|Rootinia : Quattro|
-NX2 K-Hiphop Remix|Rootinia : Mix Up 2|
+NX2 K-Hiphop Remix|Rootinia : Mix Up 2|https://youtu.be/F22IvEaoEAk?t=2523
 Final Audition|Rootinia : 1st Audition|
 Turkey March|Rootinia : Mirror|
-Guitar Man|Rootinia : Routine 6|
+Guitar Man|Rootinia : Routine 6|https://youtu.be/F22IvEaoEAk?t=3228
 아주 오래된 연인들 (Very Old Couples)|Rootinia : Short Term Memory|
 Money Fingers 2|Rootinia : Routine 7|
 Novasonic Remix|Rootinia : Mix Up 3|
 Slam|Rootinia : [ Temple ]|
 미운 오리새끼 (Ugly Dee)|Rootinia : Swan|
-그대에게 (For You) Fullver.|Rootinia : [ Castle ]|
+그대에게 (For You) Fullver.|Rootinia : [ Castle ]|https://youtu.be/F22IvEaoEAk?t=3228
 Beat of The War 2|Rootinia : Nightmare Beat|
 Love Is A Danger Zone pt.2|Rootinia : Non-Powerful|
 좌절금지 (Stop Frustration)|Shantomia : Routine 8|
