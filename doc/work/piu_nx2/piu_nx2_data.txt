@@ -68,29 +68,29 @@ Pumptris Quattro|No. 40-3|
 World Max|151 Missions (by N)|_H
 Canon D|Rootinia : First Step|
 Beethoven Virus|Rootinia : Never Die|
-Chopstix|Rootinia : Rootiniautine 4|
+Chopstix|Rootinia : Routine 4|
 영원한 사랑 (Forever Love)|Rootinia : Basic|
 ZERO K-Hiphop Remix|Rootinia : * Overdeath|
 Money Fingers|Rootinia : Mon*ey|
 X-Treme|Rootinia : Alteration|
-Shake It Up|Rootinia : Rootiniautine 5|
+Shake It Up|Rootinia : Routine 5|
 Pumptris Quattro|Rootinia : Quattro|
 NX2 K-Hiphop Remix|Rootinia : Mix Up 2|
 Final Audition|Rootinia : 1st Audition|
-Turkey March|Rootinia : MirRootiniar|
-Guitar Man|Rootinia : Rootiniautine 6|
+Turkey March|Rootinia : Mirror|
+Guitar Man|Rootinia : Routine 6|
 아주 오래된 연인들 (Very Old Couples)|Rootinia : Short Term Memory|
-Money Fingers 2|Rootinia : Rootiniautine 7|
+Money Fingers 2|Rootinia : Routine 7|
 Novasonic Remix|Rootinia : Mix Up 3|
 Slam|Rootinia : [ Temple ]|
 미운 오리새끼 (Ugly Dee)|Rootinia : Swan|
 그대에게 (For You) Fullver.|Rootinia : [ Castle ]|
 Beat of The War 2|Rootinia : Nightmare Beat|
 Love Is A Danger Zone pt.2|Rootinia : Non-Powerful|
-좌절금지 (Stop Frustration)|Shantomia : Rootiniautine 8|
+좌절금지 (Stop Frustration)|Shantomia : Routine 8|
 Street Show Down|Shantomia : Vanish|
 Dance All Night|Shantomia : Dance|
-Money|Shantomia : ThRootiniawaway|
+Money|Shantomia : Throwaway|
 신기한 노래 (Astral Song)|Shantomia : Astral|
 Fly|Shantomia : Light 2|
 Bee|Shantomia : Perplexity 3|
@@ -110,11 +110,11 @@ Energizer|Shantomia : Thrill|
 Higgledy Piggledy|Shantomia : Swan 2|
 Le Code De Bonne Conduite|Shantomia : SG|
 Lexy 1Tym Remix|Shantomia : Mix Up 4|
-Deux Remix|Shantomia : Fork of a Rootiniaad|
+Deux Remix|Shantomia : Fork of a Road|
 Enter The Dragon|Shantomia : Aqua Blue|
 내게 남은 사랑을 다 줄께 (I'll Give You All My Love) Fullver.|Shantomia : * J. K. D.|
 소방관 아저씨 (Mr. Fire Fighter)|Shantomia : Suddenly Appear 2|
-Essa Maneira|Shantomia : Fork of a Rootiniaad 2|
+Essa Maneira|Shantomia : Fork of a Road 2|
 Funky Tonight|Shantomia : Ghost 2|
 Jam O Beat|Shantomia : B-O-Beat|
 흐린 기억속의 그대 (U Inside My Dim Memory)|Shantomia : [ Castle 2 ]|
@@ -123,12 +123,12 @@ BanYa Hiphop Remix|Mirtain : Perplexity 6|
 후회 (Compunction)|Mirtain : +500|
 폭풍 (Typhoon) Fullver.|Mirtain : Suddenly Appear 3|
 Beat # No.4|Mirtain : Invisible Beat|
-Com' Back|Mirtain : Rootiniautine 9|
+Com' Back|Mirtain : Routine 9|
 햇살 좋은 날 (Shiny Day)|Mirtain : Random Access|
 Moonlight|Mirtain : MX Style|
 Phantom|Mirtain : Non-Powerful 3|
-Beethoven Virus|Mirtain : Rootiniautine 10|
-내맘이야 (It's My Business)|Mirtain : [ NecRootiniapolis ]|
+Beethoven Virus|Mirtain : Routine 10|
+내맘이야 (It's My Business)|Mirtain : [ Necropolis ]|
 소방관 아저씨 (Mr. Fire Fighter) Fullver.|Mirtain : Fire Fighting|
 증오 (Hatred)|Mirtain : Magma|
 가 (Go)|Mirtain : Memorial Service|
@@ -213,7 +213,7 @@ Love Is A Danger Zone pt.2 D&G ver.|Cryomiston : Crystal WN|
 Beat of The War 2 Fullver.|Cryomiston : [ Ice Castle ]|
 Moonlight?|Cryomiston : Blue Light|
 May Remix|Prue Ocean : ???|
-무혼(武魂) 1.5 (Solitary 1.5)|Prue Ocean : Staff Rootiniall|
+무혼(武魂) 1.5 (Solitary 1.5)|Prue Ocean : Staff Roll|
 Beethoven Virus|Prue Ocean : Eraser|
 Mission Possible|Prue Ocean : Mission Possible|
 소방관 아저씨 (Mr. Fire Fighter), Beat of The War 2|Prue Ocean : Fire & Ice|
