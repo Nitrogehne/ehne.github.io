@@ -26,16 +26,21 @@
     border-top-width : 1px;
     border-top-style : solid;
   }
+  #piu_nx_tb tbody tr.head td {
+    background-color : #222;
+    color : #fff;
+    font-weight : bold;
+  }
   #piu_nx2_tb tbody td {
     padding : 0 1em;
   }
   .piu_nx2_no, .piu_nx2_hd, .piu_nx2_cz, .piu_nx2_fs, .piu_nx2_nm, .piu_nx2_lm { font-weight : bold; }
-  .piu_nx2_no{ color : yellow; }
-  .piu_nx2_hd{ color : royalblue; }
-  .piu_nx2_cz{ color : red;}
-  .piu_nx2_fs{ color : lime;}
-  .piu_nx2_nm{ color : mediumpurple; }
-  .piu_nx2_lm{ color : cyan; }
+  .piu_nx2_no{ color : khaki; }
+  .piu_nx2_hd{ color : dodgerblue; }
+  .piu_nx2_cz{ color : orangered;}
+  .piu_nx2_fs{ color : greenyellow;}
+  .piu_nx2_nm{ color : darkorchid; }
+  .piu_nx2_lm{ color : lightcyan; }
 </style>
 <script>
   var tb, tr, dt_tr, td, dt_td, song;
@@ -54,20 +59,23 @@
         song = dt_td[0];
         for(let j = 0; j < dt_td.length; j++){
           td = $("<td>").text(dt_td[j]);
-          if(dt_td[j].includes("Normal")){
-            td.addClass("piu_nx2_no");
-          }else if(dt_td[j].includes("Hard")){
-            td.addClass("piu_nx2_hd");
-          }else if(dt_td[j].includes("Crazy")){
-            td.addClass("piu_nx2_cz");
-          }else if(dt_td[j].includes("Freestyle")){
-            td.addClass("piu_nx2_fs");
-          }else if(dt_td[j].includes("Nightmare")){
-            td.addClass("piu_nx2_nm");
-          }else if(dt_td[j].includes("LightMap")){
-            td.addClass("piu_nx2_lm");
+          if(dt_td[j] == "_H"){
+            tr.addClass("head");
+            td.text("");
           }else if(dt_td[j].includes("youtube")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j] == "Normal" || dt_td[j] == "Another Normal"){
+            td.addClass("piu_nx2_no");
+          }else if(dt_td[j] == "Hard" || dt_td[j] == "Another Hard"){
+            td.addClass("piu_nx2_hd");
+          }else if(dt_td[j] == "Crazy" || dt_td[j] == "Another Crazy"){
+            td.addClass("piu_nx2_cz");
+          }else if(dt_td[j] == "Freestyle" || dt_td[j] == "Another Freestyle"){
+            td.addClass("piu_nx2_fs");
+          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
+            td.addClass("piu_nx2_nm");
+          }else if(dt_td[j] == "LightMap" || dt_td[j] == "Another LightMap"){
+            td.addClass("piu_nx2_lm");
           }
           tr.append(td);
         }
