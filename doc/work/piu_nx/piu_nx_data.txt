@@ -1,18 +1,18 @@
 Arcade Station|39 Modes|_H
 사랑가 2006 (Love Song 2006)|Nightmare|https://www.youtube.com/watch?v=8ZFY9E5Icz0&ab_channel=Turkeyslam
 사랑가 2006 (Love Song 2006)|LightMap|
-사랑스러워 (Lovely)|Nightmare|
+사랑스러워 (Lovely)|Nightmare|https://www.youtube.com/watch?v=8ZFY9E5Icz0&ab_channel=Turkeyslam
 사랑스러워 (Lovely)|LightMap|
 자유로와 (Free!)|Freestyle|
 자유로와 (Free!)|LightMap|
-종점 보관소 (Terminal Depository)|Crazy|
-종점 보관소 (Terminal Depository)|Nightmare|
+종점 보관소 (Terminal Depository)|Crazy|https://www.youtube.com/watch?v=79R3ux5Kn8c&ab_channel=Turkeyslam
+종점 보관소 (Terminal Depository)|Nightmare|https://www.youtube.com/watch?v=zXzRXvRG198&ab_channel=mentormin%EB%A9%98%ED%86%A8%EB%AF%BC
 종점 보관소 (Terminal Depository)|LightMap|
-투우사의 노래 (Bullfighter's Song)|Hard|
-투우사의 노래 (Bullfighter's Song)|Crazy|
+투우사의 노래 (Bullfighter's Song)|Hard|https://www.youtube.com/watch?v=kcQxM9KU6HY&t=2s&ab_channel=CrsPIUDDR
+투우사의 노래 (Bullfighter's Song)|Crazy|https://www.youtube.com/watch?v=kcQxM9KU6HY&t=2s&ab_channel=CrsPIUDDR
 투우사의 노래 (Bullfighter's Song)|LightMap|
-현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Crazy|
-현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Freestyle|
+현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Crazy|https://www.youtube.com/watch?v=r7iMMNUsEaQ&ab_channel=Turkeyslam
+현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Freestyle|https://www.youtube.com/watch?v=UBEI7nZ_ISU&ab_channel=Turkeyslam
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|LightMap|
 흐린 기억속의 그대 (U Inside My Dim Memory)|Hard|https://www.youtube.com/watch?v=mZjz3l-CZEI&ab_channel=ArudoRLZ
 흐린 기억속의 그대 (U Inside My Dim Memory)|Crazy|https://www.youtube.com/watch?v=z5gE1XeryhQ&ab_channel=speedpump
@@ -21,7 +21,7 @@ Arcade Station|39 Modes|_H
 Arch of Darkness|Normal|https://www.youtube.com/watch?v=2gENRCPPYPs&ab_channel=ArudoRLZ
 Arch of Darkness|Crazy|https://www.youtube.com/watch?v=WZGzTktwewo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Arch of Darkness|LightMap|
-Bust Back|Nightmare|
+Bust Back|Nightmare|https://www.youtube.com/watch?v=8whj2FdG-LA&ab_channel=Turkeyslam
 Bust Back|LightMap|
 Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Chimera|Nightmare|https://www.youtube.com/watch?v=2enPVXnnqB4&ab_channel=%ED%94%BC%ED%8E%A8%EC%A6%88FEFEMZ
@@ -44,25 +44,25 @@ Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
 Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
 Go Back|Nightmare|https://www.youtube.com/watch?v=F0E_39u2XY0&ab_channel=Thumbsy
 Go Back|LightMap|
-Hold The Line|Nightmare|
+Hold The Line|Nightmare|https://www.youtube.com/watch?v=Yev2K8Lkb9o&ab_channel=XXwifaXX
 Hold The Line|LightMap|
 One Night|Crazy|https://www.youtube.com/watch?v=A9D8WcxbVMA&ab_channel=bebupiu
 One Night|Nightmare|https://www.youtube.com/watch?v=DbITlkVSAcc&ab_channel=MeChrisLee
 One Night|LightMap|
-Snow Dream|Hard|
+Snow Dream|Hard|https://www.youtube.com/watch?v=cDWiCexkP6k&ab_channel=Valius
 Snow Dream|LightMap|
 Witch Doctor #1|Crazy|https://www.youtube.com/watch?v=9UKIitjxZtU&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Witch Doctor #1|Nightmare|https://www.youtube.com/watch?v=z4knqppaCBQ&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Witch Doctor #1|LightMap|
-We Goin' Fly Remix|Crazy|
-We Goin' Fly Remix|Nightmare|
+We Goin' Fly Remix|Crazy|https://www.youtube.com/watch?v=wHUSRksg3tI&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+We Goin' Fly Remix|Nightmare|https://www.youtube.com/watch?v=YGEwZ35nYRg&t=168s&ab_channel=mentormin%EB%A9%98%ED%86%A8%EB%AF%BC
 We Goin' Fly Remix|LightMap|
 Special Station / Another|3 Modes|_H
-그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|
+그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|https://www.youtube.com/watch?v=AQhMfDFC8nI&ab_channel=BOSS_PIUVNPumpItUpTeam
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
-Bee|Another Freestyle|
+Bee|Another Freestyle|https://www.youtube.com/watch?v=gm3V0axTYso&ab_channel=Turkeyslam
 Bee|Another LightMap|
 Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel=%EB%B0%80%EB%A6%AC%EC%95%84MILLIA
-Shake It Up|Another Nightmare|
+Shake It Up|Another Nightmare|https://www.youtube.com/watch?v=xW6_s5xSLkI&ab_channel=BOSS_PIUVNPumpItUpTeam
 Shake It Up|Another LightMap|
 World Tour|102 Missions|_H
