@@ -5,21 +5,21 @@ Arcade Station|25 Modes|_H
 반갑습니다 (Nice To Meet You)|Hard|https://www.youtube.com/watch?v=Jq8COSTuQPQ&ab_channel=PIURe0l
 반갑습니다 (Nice To Meet You)|Nightmare|https://www.youtube.com/watch?v=V3NOzCuXjTI&ab_channel=Valius
 반갑습니다 (Nice To Meet You)|LightMap|
-아주 오래된 연인들 (Very Old Couples)|Normal|
+아주 오래된 연인들 (Very Old Couples)|Normal|https://www.youtube.com/watch?v=3A1BuDybdCU&ab_channel=SangjoonYoo
 아주 오래된 연인들 (Very Old Couples)|Hard|https://www.youtube.com/watch?v=_dV_uJQia0Y&list=PLSB4K7Sjf1aM9-1BUlqvNuJOXO_a-czti&index=6&ab_channel=MeChrisLee
-아주 오래된 연인들 (Very Old Couples)|Crazy|
+아주 오래된 연인들 (Very Old Couples)|Crazy|https://www.youtube.com/watch?v=crwYzOX4WZM&ab_channel=Turkeyslam
 아주 오래된 연인들 (Very Old Couples)|Freestyle|https://www.youtube.com/watch?v=S_p74QjvyWA&ab_channel=SangjoonYoo
-아주 오래된 연인들 (Very Old Couples)|Nightmare|
+아주 오래된 연인들 (Very Old Couples)|Nightmare|https://www.youtube.com/watch?v=r3fkSUfQIU8&ab_channel=Turkeyslam
 아주 오래된 연인들 (Very Old Couples)|LightMap|
-햇살 좋은날 (Shiny Day)|Nightmare|
+햇살 좋은날 (Shiny Day)|Nightmare|https://www.youtube.com/watch?v=3usS3mRfnt0&ab_channel=KONSENT0
 햇살 좋은날 (Shiny Day)|LightMap|
 후회 (Compunction)|LightMap|
 Caprice Of Otada|LightMap|
 Energizer|Normal|
-Energizer|Hard|
-Energizer|Crazy|
-Energizer|Freestyle|
-Energizer|Nightmare|
+Energizer|Hard|https://www.youtube.com/watch?v=gb_vhm2UB7A&ab_channel=CrsPIUDDR
+Energizer|Crazy|https://www.youtube.com/watch?v=HKwyrXRfDI8&ab_channel=AlexDiener
+Energizer|Freestyle|https://www.youtube.com/watch?v=Q5vArttEhZo&ab_channel=MeChrisLee
+Energizer|Nightmare|https://www.youtube.com/watch?v=BBn8cgZBTZM&ab_channel=CrsPIUDDR
 Energizer|LightMap|
 Faster Z|Normal|
 Faster Z|Hard|
