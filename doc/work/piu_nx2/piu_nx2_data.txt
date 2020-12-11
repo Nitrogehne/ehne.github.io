@@ -142,7 +142,7 @@ Dr. M|Mirtain : The Left Foot 2|
 Mr. Larpus|Mirtain : Born of Earth|
 A. U Ready? Fullver.|Mirtain : A.U.NE?|
 아주 오래된 연인들 (Very Old Couples) Fullver.|Mirtain : Heart's Gone|
-Final Audition 3|Mirtain : * Yahpp|
+Final Audition 3, Chimera|Mirtain : * Yahpp|
 불놀이야 (Fire Game)|Mirtain : Meteor|
 종점 보관소 (Terminal Depository)|Mirtain : Life G|
 햇살 좋은 날 (Shiny Day)|Mirtain : Sunlight|
@@ -191,7 +191,7 @@ Come Back Home|Morigin : Paradox|
 Novarash Remix|Morigin : Item War|
 Beat of the War|Morigin : Transducer|
 Lazenca Save Us|Morigin : Born of Earth 5|
-예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne|
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne|https://youtu.be/tUnwhLjr6TA
 Treme Vook of The War|Morigin : [ Factory ]|
 Hi Bi|Morigin : Arrange|
 N|Morigin : N|
