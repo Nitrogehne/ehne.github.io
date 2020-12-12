@@ -62,7 +62,7 @@
           if(dt_td[j] == "_H"){
             tr.addClass("head");
             td.text("");
-          }else if(dt_td[j].includes("youtube.com/") || (dt_td[j].includes("youtu.be/")){
+          }else if(dt_td[j].includes("youtube.com/") || dt_td[j].includes("youtu.be/")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
           }else if(dt_td[j] == "Normal"){
             td.addClass("piu_nx_no");
