@@ -3,7 +3,7 @@ $(function() {
 });
 
 function load_file() {
-  $("*:not(#main) .load").each(function() {
+  $(":not(#main) > .load").each(function() {
     var obj = $(this);
     var url = obj.attr("data-url");
     $.ajax({
