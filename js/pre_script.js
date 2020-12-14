@@ -1,7 +1,20 @@
 $(function() {
+    init_main();
     load_file();
 });
 
+function init_main(){
+    if(location.search != "") {
+        arr_get = location.search.substr(1).split("?");
+        obj_get = {};
+        for(i = 0; i < arr_get.length; i++){
+            obj_get[arr_get[i].split("=")[0]] = arr_get[i].split("=")[1];
+        }
+        if(obj_get["menu"]){
+            $("#main .load").attr("data-url", menu + "/index.html");
+        }
+    }
+}
 function load_file() {
   $(".load").each(function() {
     var obj = $(this);
