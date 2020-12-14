@@ -11,7 +11,7 @@ function init_main(){
             obj_get[arr_get[i].split("=")[0]] = arr_get[i].split("=")[1];
         }
         if(obj_get["menu"]){
-            $("#main .load").attr("data-url", menu + "/index.html");
+            $("#main .load").attr("data-url", obj_get["menu"] + "/index.html");
         }
     }
 }
