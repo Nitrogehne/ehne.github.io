@@ -22,9 +22,9 @@ Energizer|Freestyle|https://www.youtube.com/watch?v=Q5vArttEhZo&ab_channel=MeChr
 Energizer|Nightmare|https://www.youtube.com/watch?v=BBn8cgZBTZM&ab_channel=CrsPIUDDR
 Energizer|LightMap|
 Faster Z|Normal|
-Faster Z|Hard|
+Faster Z|Hard|https://www.youtube.com/watch?v=mNOxxThKLhY&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Faster Z|Crazy|
-Faster Z|Freestyle|
+Faster Z|Freestyle|https://www.youtube.com/watch?v=sCxq0bT0PMo&ab_channel=JUNTROLL
 Faster Z|Nightmare|
 Faster Z|LightMap|
 Feel The Soul|Normal|
