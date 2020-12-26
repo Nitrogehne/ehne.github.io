@@ -1,4 +1,4 @@
-Arcade Station|39 Modes|_H
+Arcade Station|39 Charts|_H
 사랑가 2006 (Love Song 2006)|Nightmare|https://www.youtube.com/watch?v=zFFSfHFX5AY&ab_channel=JUNTROLL
 사랑가 2006 (Love Song 2006)|LightMap|
 사랑스러워 (Lovely)|Nightmare|https://www.youtube.com/watch?v=8ZFY9E5Icz0&ab_channel=Turkeyslam
@@ -57,7 +57,7 @@ Witch Doctor #1|LightMap|
 We Goin' Fly Remix|Crazy|https://www.youtube.com/watch?v=wHUSRksg3tI&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 We Goin' Fly Remix|Nightmare|https://www.youtube.com/watch?v=YGEwZ35nYRg&t=168s&ab_channel=mentormin%EB%A9%98%ED%86%A8%EB%AF%BC
 We Goin' Fly Remix|LightMap|
-Special Station / Another|3 Modes|_H
+Special Station / Another|3 Charts|_H
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|https://www.youtube.com/watch?v=AQhMfDFC8nI&ab_channel=BOSS_PIUVNPumpItUpTeam
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
 Bee|Another Freestyle|https://www.youtube.com/watch?v=gm3V0axTYso&ab_channel=Turkeyslam
@@ -66,7 +66,7 @@ Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel
 Shake It Up|Another Nightmare|https://www.youtube.com/watch?v=xW6_s5xSLkI&ab_channel=BOSS_PIUVNPumpItUpTeam
 Shake It Up|Another LightMap|
 World Tour|102 Missions|_H
-자료가 없어서|아닐수도|있습니다.
+자료가 없어서 아닐수도 있습니다.||
 불놀이야 (Fire Game)|A04 Hongcong Stage 2|https://youtu.be/YFAidGR3It4?t=117
 경고 (Don't Bother Me)|A04 Hongcong Stage 3|https://youtu.be/YFAidGR3It4?t=246
 One Night|A08 Singgapore Stage 3|https://youtu.be/RClr8nW28x4?t=235
