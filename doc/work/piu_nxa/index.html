@@ -1,0 +1,92 @@
+<article id="piu_nxa">
+<h1>Pump It Up NX Absolute</h1>
+<table id="piu_nxa_tb">
+  <thead>
+    <tr>
+      <th>Music</th>
+      <th>Mode</th>
+      <th>YouTube</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</article>
+<style>
+  #piu_nxa_tb {
+    border-width: 3px;
+    padding: 0 1em;
+    margin : auto;
+    border-collapse : collapse; 
+  }
+  #piu_nxa_tb thead {
+    
+  }
+  #piu_nxa_tb tbody tr.song_div {
+    border-top-width : 1px;
+    border-top-style : solid;
+  }
+  #piu_nxa_tb tbody tr.head td {
+    background-color : #222;
+    color : #fff;
+    font-weight : bold;
+  }
+  #piu_nxa_tb tbody td {
+    padding : 0 1em;
+  }
+  .piu_nxa_no, .piu_nxa_hd, .piu_nxa_cz, .piu_nxa_fs, .piu_nxa_nm, .piu_nxa_lm { font-weight : bold; }
+  .piu_nxa_no { color : khaki; }
+  .piu_nxa_hd { color : dodgerblue; }
+  .piu_nxa_cz { color : orangered;}
+  .piu_nxa_fs { color : greenyellow;}
+  .piu_nxa_nm { color : darkorchid; }
+  .piu_nxa_lm { color : lightcyan; }
+</style>
+<script>
+  var tb, tr, dt_tr, td, dt_td, song;
+  $.ajax({
+    async : false,
+    url : "doc/work/piu_nxa/piu_nxa_data.txt",
+    success : function(rs) {
+      tb = $("#piu_nxa_tb tbody");
+      dt_tr = rs.split("\n");
+      for(let i = 0; i < dt_tr.length; i++){
+        tr = $("<tr>");
+        dt_td = dt_tr[i].split("|");
+        if(song != dt_td[0]) {
+          tr.addClass("song_div");
+        }
+        song = dt_td[0];
+        for(let j = 0; j < dt_td.length; j++){
+          td = $("<td>").text(dt_td[j]);
+          if(dt_td[j] == "_H"){
+            tr.addClass("head");
+            td.text("");
+          }else if(dt_td[j].includes("youtube") || dt_td[j].includes("youtu.be/")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j] == "Normal" || dt_td[j] == "Another Normal"){
+            td.addClass("piu_nxa_no");
+          }else if(dt_td[j] == "Hard" || dt_td[j] == "Another Hard"){
+            td.addClass("piu_nxa_hd");
+          }else if(dt_td[j] == "Crazy" || dt_td[j] == "Another Crazy"){
+            td.addClass("piu_nxa_cz");
+          }else if(dt_td[j] == "Freestyle" || dt_td[j] == "Another Freestyle"){
+            td.addClass("piu_nxa_fs");
+          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
+            td.addClass("piu_nxa_nm");
+          }else if(dt_td[j] == "LightMap" || dt_td[j] == "Another LightMap"){
+            td.addClass("piu_nxa_lm");
+          }
+          tr.append(td);
+        }
+        if(dt_td[0] != ""){
+          tb.append(tr);
+        }
+      }
+    },
+    complete : function(rs) {
+    },
+    error : function(rs) {
+    }
+  });
+</script>
