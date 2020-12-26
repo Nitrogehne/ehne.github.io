@@ -1,6 +1,6 @@
 Arcade Station|5 Charts|_H
 Cannon X.1|Normal|
-Cannon X.1|Double|
+Cannon X.1|Freestyle|
 Cannon X.1|Nightmare|
 Chopsticks Challenge|Hard|
 Chopsticks Challenge|Nightmare|
