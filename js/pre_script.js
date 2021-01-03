@@ -20,8 +20,10 @@ function load_file() {
       }
     });
   }).promise().done(function() {
-    if(0 < $(".load").length) {
-      load_file();
-    }
+      setTimeout(function(){
+          if(0 < $(".load").length) {
+              load_file();
+          }
+      }, 100);
   });
 }
