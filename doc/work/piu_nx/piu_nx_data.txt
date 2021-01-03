@@ -80,9 +80,9 @@ Lazenca Save Us|E07 Athens Stage 2|https://www.youtube.com/watch?v=QOPqsqgfebc&a
 영원한 사랑|1-1|
 Beat Of The War 2|5-1|
 Fianl Audition Episode 2-2|5-2|
-또다른 진심|7-1 Arcade Hard Mission Edit|
-그대에게|7-2 Arcade Hard Mission Edit|
-Com' Back|7-3 Arcade Hard Mission Edit|
+또다른 진심|7-1<br>Arcade Hard Mission Edit|
+그대에게|7-2<br>Arcade Hard Mission Edit|
+Com' Back|7-3<br>Arcade Hard Mission Edit|
 사랑스러워|9-3|
 Free Style |10-1|
 N|10-2|
@@ -135,7 +135,7 @@ One Love|36-1|
 Will O The Wisp|39-2|
 Mr. Larpus|39-3|
 Up Up|40-1|
-Shake It Up|40-3 Another Crazy Mission Edit|
+Shake It Up|40-3<br>Another Crazy Mission Edit|
 Wi.Ex.Doc.Va Remix|43-2|
 Up Up|46-1|
 태양의 나라|47-1|
@@ -162,9 +162,9 @@ Canon D|58-3|
 J Bong|59-1|
 Hi Bi|59-2|
 Vook|59-3|
-Extravaganza|60-1 Another Nightmare Mission Edit|
-Witch Doctor|60-2 Another Nightmare Mission Edit|
-Final Audtition Episode 1|60-3 Another Nightmare Mission Edit|
+Extravaganza|60-1<br>Another Nightmare Mission Edit|
+Witch Doctor|60-2<br>Another Nightmare Mission Edit|
+Final Audtition Episode 1|60-3<br>Another Nightmare Mission Edit|
 Beat Of The War|61-1|
 Beat Of The War 2|61-2|
 Beat Of The War 2 DnG Ver.|61-3|
@@ -175,5 +175,4 @@ Love Is A Danger Zone|63-1|
 Love Is A Danger Zone pt.2|63-2|
 Love Is A Danger Zone pt.2 DnG Ver.|63-3|
 Final Audition Episode 2-2|64-2|
-Dignity|64-3 Income Nightmare Mission Edit|
-
+Dignity|64-3<br>Income Nightmare Mission Edit|
