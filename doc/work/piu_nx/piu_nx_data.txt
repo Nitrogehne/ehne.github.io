@@ -66,16 +66,28 @@ Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel
 Shake It Up|Another Nightmare|https://www.youtube.com/watch?v=xW6_s5xSLkI&ab_channel=BOSS_PIUVNPumpItUpTeam
 Shake It Up|Another LightMap|
 World Tour|102 Missions|_H
-영원한 사랑|Asia 01 Seoul 1|
+영원한 사랑|Asia 01 Seoul 1|7
 Beat Of The War 2|Asia 02 Hanoi 1|
 Fianl Audition Episode 2-2|Asia 05 Hanoi 2|
-One Night|Asia 04 Hongcong 1|
+사랑스러워|Asia 09 Tokyo 3|
+One Night|Asia 04 Hongcong 1|https://youtu.be/YFAidGR3It4
 불놀이야 (Fire Game)|Asia 04 Hongcong 2|https://youtu.be/YFAidGR3It4?t=117
 경고 (Don't Bother Me)|Asia 04 Hongcong 3<br>Freestyle Mission Edit|https://youtu.be/YFAidGR3It4?t=246
+Watch Out|Asia 06 Taipeh 2|
+긴급상황|Asia 06 Taipeh 3|
+Hybs|Asia 07 Kualalumpur 1|
+Chicago Club Remix|Asia 07 Kualalumpur 2|
+님과 함께|Asia 08 Singgapore 1|https://youtu.be/RClr8nW28x4
+긴급상황|Asia 08 Singgapore 2|https://youtu.be/RClr8nW28x4?t=115
 One Night|Asia 08 Singgapore 3|https://youtu.be/RClr8nW28x4?t=235
+We Goin' Fly Remix|Asia 14 KanG2 2|
 Arch Of Darkness|Asia 15 Yasangma 1<br>Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q
 Witch Doctor #1|Asia 15 Yasangma 2<br>Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q?t=123
 Final Audition|Asia 15 Yasangma 3<br>Another Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q?t=242
+Beat Of The War|Asia 16 J.K.D 1|
+Beat Of The War 2|Asia 16 J.K.D 2|
+Beat Of The War 2 DnG Ver.|Asia 16 J.K.D 3|
+
 Phantom|S05 Lapaz Stage 3|https://www.youtube.com/watch?v=6MPZCQ5i3do&ab_channel=JboyAAA
 Arch Of Darkness|A14 KanG2 Stage 3|https://youtu.be/VYVhs5itqno?t=241
 Chimera|N05 Ottawa Stage 2|https://www.youtube.com/watch?v=DTcXXc9GSEE&ab_channel=s34nVideos
@@ -86,7 +98,7 @@ Lazenca Save Us|Europe-07 Athens-2|https://www.youtube.com/watch?v=QOPqsqgfebc&a
 또다른 진심|7-1<br>Hard Mission Edit|
 그대에게|7-2<br>Hard Mission Edit|
 Com' Back|7-3<br>Hard Mission Edit|
-사랑스러워|9-3|
+
 Free Style |10-1|
 N|10-2|
 친구여|11-1|
@@ -103,23 +115,16 @@ Dr. M|18-3|
 Phantom|19-3|
 Essa Maneira|20-2|
 Power Of Dream|20-3|
-Watch Out|21-2|
-긴급상황|21-3|
 Final Audition|22-1|
 Final Audition 2|22-2|
 Final Audition 3|22-3|
 발자국|23-1|
 자유로와|23-2|
 현진영 Go 진영 Go|23-3|
-Hybs|25-1|
-Chicago Club Remix|25-2|
 HOT 뜨거|27-2|
 소방관 아저씨|27-3|
 경고|28-1|
 Lazenca Save Us|28-2|
-님과 함께|29-1|
-긴급상황|29-2|
-One Night|29-3|
 폭풍|30-1|
 폭풍의 언덕|30-2|
 Storm|30-3|
@@ -151,7 +156,6 @@ Bee|50-3|
 오빠는 풍각쟁이|52-1|
 오빠는 풍각쟁이|52-2|
 오빠는 풍각쟁이|52-3|
-We Goin' Fly Remix|53-2|
 Moonlight|54-1|
 Beethoven Virus|54-3|
 Come To Me|56-1|
@@ -165,9 +169,6 @@ Vook|59-3|
 Extravaganza|60-1<br>Another Nightmare Mission Edit|
 Witch Doctor|60-2<br>Another Nightmare Mission Edit|
 Final Audtition Episode 1|60-3<br>Another Nightmare Mission Edit|
-Beat Of The War|61-1|
-Beat Of The War 2|61-2|
-Beat Of The War 2 DnG Ver.|61-3|
 Final Audition Episode 2-1|62-1|
 Fianl Audition Episode 1|62-2|
 Fianl Audition Episode 2-2|62-3|
