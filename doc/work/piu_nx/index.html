@@ -83,16 +83,16 @@
             td.addClass("piu_nx_lm");
           }else if(dt_td[j].includes("Asia : ")){
             td.addClass("piu_nx_asia");
-            td.text(td.text().replace("Asia : ", "A"));
+            td.html(td.html().replace("Asia : ", "A"));
           }else if(dt_td[j].includes("N. America : ")){
             td.addClass("piu_nx_namerica");
-            td.text(td.text().replace("N. America : ", "N"));
+            td.html(td.html().replace("N. America : ", "N"));
           }else if(dt_td[j].includes("S. America : ")){
             td.addClass("piu_nx_samerica");
-            td.text(td.text().replace("S. America : ", "S"));
+            td.html(td.html().replace("S. America : ", "S"));
           }else if(dt_td[j].includes("Eroupe : ")){
             td.addClass("piu_nx_eroupe");
-            td.text(td.text().replace("Eroupe : ", "E"));
+            td.html(td.html().replace("Eroupe : ", "E"));
           }
           tr.append(td);
         }
