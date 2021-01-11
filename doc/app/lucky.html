@@ -1,0 +1,8 @@
+<article id="lucky">
+<input id="lucky_buy"><input id=""><input id="lucky_sell">
+</article>
+<script>
+$("#lucky_buy").on("change", function(){
+  $("#lucky_sell").text(Math.random());
+});
+</script>
