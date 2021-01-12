@@ -1,0 +1,87 @@
+<article id="bms">
+<h1>Be-Music Script</h1>
+<table id="bms_tb">
+  <thead>
+    <tr>
+      <th>Music</th>
+      <th>Mode</th>
+      <th>YouTube</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</article>
+<style>
+  #bms_tb {
+    border-width: 3px;
+    padding: 0 1em;
+    margin : auto;
+    border-collapse : collapse; 
+  }
+  #bms_tb thead {
+    
+  }
+  #bms_tb tbody tr.song_div {
+    border-top-width : 1px;
+    border-top-style : solid;
+  }
+  #bms_tb tbody tr.head td {
+    background-color : #222;
+    color : #fff;
+    font-weight : bold;
+  }
+  #bms_tb tbody td {
+    padding : 0 1em;
+  }
+  .bms_mode {
+    font-weight : bold;
+    color : hotpink;
+  }
+</style>
+<script>
+  var tb, tr, dt_tr, td, dt_td, song;
+  $.ajax({
+    async : false,
+    url : "doc/work/bms/bms_data.txt",
+    success : function(rs) {
+      tb = $("#bms_tb tbody");
+      dt_tr = rs.split("\n");
+      for(let i = 0; i < dt_tr.length; i++){
+        tr = $("<tr>");
+        dt_td = dt_tr[i].split("|");
+        if(song != dt_td[0]) {
+          tr.addClass("song_div");
+        }
+        song = dt_td[0];
+        for(let j = 0; j < dt_td.length; j++){
+          td = $("<td>").text(dt_td[j]);
+          if(dt_td[j] == "_H"){
+            tr.addClass("head");
+            td.text("");
+          }else if(dt_td[j].includes("youtube")){
+            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
+          }else if(dt_td[j] == "Easy"){
+            td.addClass("bms_ez");
+          }else if(dt_td[j] == "Hard"){
+            td.addClass("bms_hd");
+          }else if(dt_td[j] == "Crazy"){
+            td.addClass("bms_cz");
+          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
+            td.addClass("bms_nm");
+          }else if(dt_td[j] == "LightMap"){
+            td.addClass("bms_lm");
+          }
+          tr.append(td);
+        }
+        if(dt_td[0] != ""){
+          tb.append(tr);
+        }
+      }
+    },
+    complete : function(rs) {
+    },
+    error : function(rs) {
+    }
+  });
+</script>
