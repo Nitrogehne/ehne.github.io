@@ -69,17 +69,17 @@
             td.html("");
           }else if(dt_td[j].includes("youtube.com/") || dt_td[j].includes("youtu.be/")){
             td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
-          }else if(dt_td[j] == "Normal"){
+          }else if(dt_td[j].match(/^(Another )?Normal/)){
             td.addClass("piu_nx_no");
-          }else if(dt_td[j] == "Hard"){
+          }else if(dt_td[j].match(/^(Another )?Hard/)){
             td.addClass("piu_nx_hd");
-          }else if(dt_td[j] == "Crazy" || dt_td[j] == "Another Crazy"){
+          }else if(dt_td[j].match(/^(Another )?Crazy/)){
             td.addClass("piu_nx_cz");
-          }else if(dt_td[j] == "Freestyle" || dt_td[j] == "Another Freestyle"){
+          }else if(dt_td[j].match(/^(Another )?Freestyle/)){
             td.addClass("piu_nx_fs");
-          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
+          }else if(dt_td[j].match(/^(Another )?Nightmare/)){
             td.addClass("piu_nx_nm");
-          }else if(dt_td[j] == "LightMap" || dt_td[j] == "Another LightMap"){
+          }else if(dt_td[j].match(/^(Another )?LightMap/)){
             td.addClass("piu_nx_lm");
           }else if(dt_td[j].includes("Asia : ")){
             td.addClass("piu_nx_asia");
