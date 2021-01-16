@@ -10,6 +10,7 @@ function init_main(){
         for(i = 0; i < arr_get.length; i++){
             obj_get[arr_get[i].split("=")[0]] = arr_get[i].split("=")[1];
         }
+        console.log(obj_get["menu"], $("#main_menu a[data-url='" + obj_get["menu"] + "/index.html']"));
         if(obj_get["menu"] && $("#main_menu a[data-url='" + obj_get["menu"] + "/index.html']").length){
             $("#main .load").attr("data-url", obj_get["menu"] + "/index.html");
             $("#main_menu li.current").removeClass("current");
