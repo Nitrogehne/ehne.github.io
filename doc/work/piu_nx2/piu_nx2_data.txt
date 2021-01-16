@@ -24,7 +24,7 @@ Energizer|LightMap|
 Faster Z|Normal|
 Faster Z|Hard|https://www.youtube.com/watch?v=mNOxxThKLhY&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Faster Z|Crazy|https://www.youtube.com/watch?v=qaX7DCvwwYI&t=29s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Faster Z|Freestyle|https://www.youtube.com/watch?v=x9SGILvbVS0&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Faster Z|Freestyle|https://youtu.be/1Y8WM2zXxNE
 Faster Z|Nightmare|https://www.youtube.com/watch?v=Bj7Z6lRSVyE&t=9s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Faster Z|LightMap|
 Feel The Soul|Normal|
