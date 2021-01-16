@@ -40,7 +40,7 @@ function init_main(){
         arr_get = location.search.substr(1).split("?");
         obj_get = {};
         for(i = 0; i < arr_get.length; i++){
-            obj_get[arr_get[i].split("=")[0]] = arr_get[i].split("=")[1];
+            obj_get[arr_get[i].split("=")[0]] = decodeURIComponent(arr_get[i].split("=")[1]);
         }
         console.log(obj_get["menu"], $("#main_menu a[data-url='doc/" + obj_get["menu"] + "/index.html']"));
         if(obj_get["menu"] && $("#main_menu a[data-url='doc/" + obj_get["menu"] + "/index.html']").length){
