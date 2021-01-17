@@ -28,10 +28,9 @@
       }
     </style>
     <script defer>
-      var clock = document.querySelector("#nBC_clock");
       var view_time = function(){
         var now = new Date();
-        clock.innerText = "" + now.getHours() + " : " + now.getMinutes();
+        document.querySelector("#nBC_clock").innerText = "" + now.getHours() + " : " + now.getMinutes();
       }
       view_time();
       var si = setInterval("view_time", 20 * 1000);
