@@ -29,7 +29,7 @@
     </style>
     <script defer>
       var clock = document.querySelector("#nBC_clock");
-      function view_time(){
+      var view_time = function(){
         var now = new Date();
         clock.innerText = "" + now.getHours() + " : " + now.getMinutes();
       }
