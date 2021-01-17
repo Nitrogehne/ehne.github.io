@@ -1,44 +1,95 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>nBroadcast Time</title>
-    <style>
-      @font-face {
-        font-family: 'tmonmonsori.ttfregular';
-        src: url('tmonmonsori.woff2') format('woff2'),
-          url('tmonmonsori.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
-      }
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-      }
-      body {
-        background-color : #888888;
-        font-family : "tmonmonsori.ttfregular";
-        color : #ceae6e;
-        font-size : 20px;
-      }
-      #nBC_clock {
-        background-color : #000000;
-        width : 554px;
-        margin-right : 150px;
-      }
-    </style>
-    <script defer>
-      var view_time = function(){
-        if(document.querySelector("#nBC_clock")){
-          var now = new Date();
-          document.querySelector("#nBC_clock").innerText = "" + now.getHours() + " : " + now.getMinutes();
-        }
-      }
-      view_time();
-      var si = setInterval("view_time", 20 * 1000);
-    </script>
-  </head>
-  <body>
-    <div id="nBC_clock"></div>
-  </body>
+    <head>
+        <title>nBroadcast Time</title>
+        <style>
+            @font-face {
+                font-family: 'tmonmonsori.ttfregular';
+                src: url('tmonmonsori.woff2') format('woff2'), url('tmonmonsori.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+            }
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                background-color: #FF0000;
+                font-family: TmonMonsori, "tmonmonsori.ttfregular";
+                color: #ceae6e;
+            }
+            #clock {
+                background-color: #000000;
+                width: 100%;
+                height: 100px;
+                line-height: 100px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .size30 {
+                font-size: 30px;
+            }
+            .size20 {
+                font-size: 20px;
+            }
+            .size15 {
+                font-size: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="clock">
+            <span class="crr_hour size30"></span>
+            <span class="size30">:</span>
+            <span class="crr_min size30"></span>
+            <span class="size15">:</span>
+            <span class="crr_sec size15"></span>
+            <span class="size30">&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;</span>
+            <span class="end_time size30"></span>
+        </div>
+        <script>
+            var obj_get = {};
+            if (location.search != "") {
+                var arr_get = location
+                    .search
+                    .substr(1)
+                    .split("?");
+                for (i = 0; i < arr_get.length; i ++) {
+                    obj_get[arr_get[i].split("=")[0]] = decodeURIComponent(arr_get[i].split("=")[1]);
+                }
+            }
+            if (obj_get["width"]) {
+                document
+                    .querySelector("#clock .end_time")
+                    .style
+                    .width = obj_get["width"] + "px";
+            }
+            if (obj_get["height"]) {
+                document
+                    .querySelector("#clock .end_time")
+                    .style
+                    .height = obj_get["height"] + "px";
+                document
+                    .querySelector("#clock .end_time")
+                    .style
+                    .lineHeight = obj_get["height"] + "px";
+            }
+            document.querySelector("#clock .end_time").innerText = obj_get["end"]
+                ? obj_get["end"]
+                : "21 : 45";
+            var si = setInterval(function () {
+                var clock = document.querySelector("#clock");
+                if (clock) {
+                    var now = new Date();
+                    var hour = document.querySelector("#clock .crr_hour");
+                    var min = document.querySelector("#clock .crr_min");
+                    var sec = document.querySelector("#clock .crr_sec");
+                    hour.innerText = ("0" + now.getHours()).slice(-2);
+                    min.innerText = ("0" + now.getMinutes()).slice(-2);
+                    sec.innerText = ("0" + now.getSeconds()).slice(-2);
+                }
+            }, 1000);
+        </script>
+    </body>
 </html>
