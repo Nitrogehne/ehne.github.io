@@ -54,7 +54,7 @@
                 var arr_get = location
                     .search
                     .substr(1)
-                    .split("?");
+                    .split("&");
                 for (i = 0; i < arr_get.length; i ++) {
                     obj_get[arr_get[i].split("=")[0]] = decodeURIComponent(arr_get[i].split("=")[1]);
                 }
