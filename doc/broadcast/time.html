@@ -22,8 +22,6 @@
             #clock {
                 background-color: #000000;
                 width: 100%;
-                height: 100px;
-                line-height: 100px;
                 text-align: center;
                 vertical-align: middle;
             }
@@ -59,22 +57,14 @@
                     obj_get[arr_get[i].split("=")[0]] = decodeURIComponent(arr_get[i].split("=")[1]);
                 }
             }
-            if (obj_get["width"]) {
-                document
-                    .querySelector("#clock")
-                    .style
-                    .width = obj_get["width"] + "px";
-            }
-            if (obj_get["height"]) {
-                document
-                    .querySelector("#clock")
-                    .style
-                    .height = obj_get["height"] + "px";
-                document
-                    .querySelector("#clock")
-                    .style
-                    .lineHeight = obj_get["height"] + "px";
-            }
+            document
+                .querySelector("#clock")
+                .style
+                .height = window.innerHeight + "px";
+            document
+                .querySelector("#clock")
+                .style
+                .lineHeight = window.innerHeight + "px";
             document.querySelector("#clock .end_time").innerText = obj_get["end"]
                 ? obj_get["end"]
                 : "21 : 45";
