@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>nBroadcast Time</time>
+    <title>nBroadcast Time</title>
+    <script>
+      var clock = document.querySelector("#nBC_clock");
+      var si = setInterval(function(){
+        clock.text()
+      }, 20 * 1000);
+    </script>
   </head>
   <body>
+    <div id="nBC_clock"></div>
   </body>
 </html>
