@@ -27,15 +27,15 @@
         margin-right : 150px;
       }
     </style>
-    <script>
+    <script defer>
       var clock = document.querySelector("#nBC_clock");
       var si = setInterval(function(){
-        clock.text()
+        var now = new Date();
+        clock.innerText = "" + now.getHours() + " : " + now.Minutes();
       }, 20 * 1000);
     </script>
   </head>
   <body>
-    <div id="nBC_clock">12:34</div>
-    01:23
+    <div id="nBC_clock"></div>
   </body>
 </html>
