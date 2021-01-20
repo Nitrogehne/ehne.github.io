@@ -23,6 +23,7 @@
 			    background-color: #000000;
                 color: #ffd788;
                 font-family: TmonMonsori, "tmonmonsori.ttfregular";
+				font-size: 0px;
 				text-align: center;
 				vertical-align: middle;
 			}
@@ -44,18 +45,16 @@
             }
 			var t = $("#title");
 			var w = $(window);
-			var c = 0;
 			t.text(obj_get["title"]);
 			do {
-			    c++;
 			    t.css({
-				    "font-size": parseInt(t.css("font-size")) + 1,
-					"line-Height": t.outerHeight(),
+				    "font-size": parseInt(t.css("font-size")) + 1 + "px",
+					"line-Height": t.outerHeight() + "px",
 				});
-				console.log(t.css("font-size"));
-			}while(t.outerWidth() < w.outerWidth() && t.outerHeight() < w.outerHeight() && c < 1000);
+			}while(t.outerWidth() < w.outerWidth() && t.outerHeight() < w.outerHeight());
 			
 			t.css({
+			    "font-size": parseInt(t.css("font-size")) - 1 + "px",
 			    "width": w.outerWidth() + "px",
 				"height": w.outerHeight() + "px",
 				"line-height": w.outerHeight() + "px",
