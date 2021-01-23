@@ -1,102 +1,45 @@
 <article id="n_piu">
 <a href="https://www.youtube.com/channel/UC8B_Bg1P4aTdVawLMGH_hkg" title="nPIU" target="_blank"><h1>Ehne [Pump It Up] Video</h1></a>
-<table id="n_piu">
+<table id="n_piu" style="display:none">
   <thead>
     <tr>
       <th>Music Title</th>
-	  <th>Artist</th>
       <th>Mode</th>
+      <th>Grade</th>
       <th>YouTube</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody id="n_piu_tbd">
   </tbody>
 </table>
 </article>
-<style>
-  #n_piu_tb {
-    border-width: 3px;
-    padding: 0 1em;
-    margin : auto;
-    border-collapse : collapse; 
-  }
-  #n_piu_tb thead {
-    
-  }
-  #n_piu_tb tbody tr.song_div {
-    border-top-width : 1px;
-    border-top-style : solid;
-  }
-  #n_piu_tb tbody tr.head td {
-    background-color : #222;
-    color : #fff;
-    font-weight : bold;
-  }
-  #n_piu_tb tbody td {
-    padding : 0 1em;
-  }
-  .n_piu_no, .n_piu_hd, .n_piu_cz, .n_piu_fs, .n_piu_nm, .n_piu_lm { font-weight : bold; }
-  .n_piu_no { color : khaki; }
-  .n_piu_hd { color : dodgerblue; }
-  .n_piu_cz { color : orangered;}
-  .n_piu_fs { color : greenyellow;}
-  .n_piu_nm { color : darkorchid; }
-  .n_piu_lm { color : lightcyan; }
-</style>
 <script>
-  var tb, tr, dt_tr, td, dt_td, song;
-  $.ajax({
-    async : false,
-    url : "doc/work/n_piu/n_piu_data.txt",
-    success : function(rs) {
-      tb = $("#n_piu_tb tbody");
-      dt_tr = rs.split("\n");
-      for(let i = 0; i < dt_tr.length; i++){
-        tr = $("<tr>");
-        dt_td = dt_tr[i].split("|");
-        if(song != dt_td[0]) {
-          tr.addClass("song_div");
-        }
-        song = dt_td[0];
-        for(let j = 0; j < dt_td.length; j++){
-          td = $("<td>").text(dt_td[j]);
-          if(dt_td[j] == "_H"){
-            tr.addClass("head");
-            td.text("");
-          }else if(dt_td[j].includes("youtube") || dt_td[j].includes("youtu.be/")){
-            td.html($("<a href=" + dt_td[j] + " target=_blank>[Youtube link]</a>"));
-          }else if(dt_td[j] == "Normal" || dt_td[j] == "Another Normal"){
-            td.addClass("n_piu_no");
-          }else if(dt_td[j] == "Hard" || dt_td[j] == "Another Hard"){
-            td.addClass("n_piu_hd");
-          }else if(dt_td[j] == "Crazy" || dt_td[j] == "Another Crazy"){
-            td.addClass("n_piu_cz");
-          }else if(dt_td[j] == "Freestyle" || dt_td[j] == "Another Freestyle"){
-            td.addClass("n_piu_fs");
-          }else if(dt_td[j] == "Nightmare" || dt_td[j] == "Another Nightmare"){
-            td.addClass("n_piu_nm");
-          }else if(dt_td[j] == "LightMap" || dt_td[j] == "Another LightMap"){
-            td.addClass("n_piu_lm");
-          }
-          tr.append(td);
-        }
-        if(dt_td[0] != ""){
-          tb.append(tr);
-        }
-      }
-    },
-    complete : function(rs) {
-    },
-    error : function(rs) {
-    }
-  });
+var tb = [ 
+    [ "사랑가 2006", "D13", "SS", "https://youtu.be/8l1SI3Ql2yw" ],
+	[ "조깅", "D16", "S", "https://youtu.be/7qWdr0QMtnA" ],
+	[ "히트", "D7", "S", "https://youtu.be/e32i_ta3sks" ],
+	[ "패스터 Z", "D14", "S", "https://youtu.be/1Y8WM2zXxNE" ],
+	[ "사랑을 했다", "S8", "S", "https://youtu.be/SlLwouKyJsc" ],
+	[ "더 레버리", "S17", "S", "https://youtu.be/vCrO5oMiyyk" ],
+	[ "검은 고양이", "D7", "SSS", "https://youtu.be/VTMNOSOLaWQ" ],
+	[ "미운 오리새끼", "미션 D23", "성공", "https://youtu.be/2ZgcTtbUsdY" ],
+	[ "트위스트 오브 페이트 (feat. Ruriling)" ,"초견 S19 A" ,"https://youtu.be/7E4rcYV9Ip8" ],
+	[ "블레이징", "S17", "S", "https://youtu.be/RG_80U2Q2Co" ],
+	[ "블랙스완", "D15", "S", "https://youtu.be/CLUW3TXhHUA" ],
+	[ "벌써 12시", "D16", "SS", "https://youtu.be/QGAMifqd8lI" ],
+	[ "뿜뿜", "D8", "SSS", "https://youtu.be/rUbVuNUNLTo" ],
+	[ "베토벤 바이러스", "D11", "SS", "https://youtu.be/NVnhmbV-mO8" ],
+	[ "여래아", "S13", "SSS", "https://youtu.be/66Txidune4U" ],
+	[ "무혼 1.5", "S16", "SS", "https://youtu.be/bzTCfPlIpgs" ],
+	[ "캐논X.1", "D14", "SS", "https://youtu.be/BHjTPi5tDx4" ],
+	[ "가시나", "D15", "S", "https://youtu.be/WZmZcLP1HHY" ],
+	[ "건 락", "D24", "Break D", "https://youtu.be/V1UJcY1XG_c" ],
+	[ "트위스트 오브 페이트 (feat. Ruriling)", "초견 D21 [4X]", "A", "https://youtu.be/TOjXUlq-25w" ],
+	[ "옥탑방", "D15 [2X]", "SS", "https://youtu.be/zz41xzFba1U" ],
+];
+
+var obj = {};
+for(i = 0; i < tb.length; i++){
+    
+}
 </script>
-
-<article id="n_piu">
-
-</article>
-<style>
-  #n_piu {
-    background : url('doc/hobby/piu/img/nPIU_Title.png');
-  }
-</style>
