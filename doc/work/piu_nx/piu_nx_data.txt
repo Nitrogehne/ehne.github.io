@@ -68,11 +68,10 @@ Shake It Up|Another LightMap|
 World Tour|102 Missions|_H
 영원한 사랑|Asia : 01 Seoul 1|https://youtu.be/V8xGSBff2fM
 Beat Of The War 2|Asia : 02 Hanoi 1|https://youtu.be/UmZVX_uA80c
-Fianl Audition Episode 2-2|Asia : 05 Hanoi 2|https://youtu.be/UmZVX_uA80c?t=137
-사랑스러워|Asia : 09 Tokyo 3|https://youtu.be/JDlcC28x6O0?t=239
 One Night|Asia : 04 Hongcong 1|https://youtu.be/YFAidGR3It4
 불놀이야 (Fire Game)|Asia : 04 Hongcong 2|https://youtu.be/YFAidGR3It4?t=117
 경고 (Don't Bother Me)|Asia : 04 Hongcong 3<br>Freestyle Mission Edit|https://youtu.be/YFAidGR3It4?t=246
+Fianl Audition Episode 2-2|Asia : 05 Hanoi 2|https://youtu.be/UmZVX_uA80c?t=137
 Watch Out|Asia : 06 Taipei 2|https://youtu.be/YlbpeAPjGZI?t=122
 긴급상황|Asia : 06 Taipei 3|https://youtu.be/YlbpeAPjGZI?t=239
 Hybs|Asia : 07 Kualalumpur 1|https://youtu.be/_FmQ6MflA1o
@@ -80,6 +79,7 @@ Chicago Club Remix|Asia : 07 Kualalumpur 2|https://youtu.be/_FmQ6MflA1o?t=123
 님과 함께|Asia : 08 Singgapore 1|https://youtu.be/RClr8nW28x4
 긴급상황|Asia : 08 Singgapore 2|https://youtu.be/RClr8nW28x4?t=115
 One Night|Asia : 08 Singgapore 3|https://youtu.be/RClr8nW28x4?t=235
+사랑스러워|Asia : 09 Tokyo 3|https://youtu.be/JDlcC28x6O0?t=239
 Bust Back|Asia : 11 Pyongyang 1|https://youtu.be/PioIxuC3mMY
 We Goin' Fly Remix|Asia : 14 KanG2 2|https://youtu.be/VYVhs5itqno?t=118
 Arch Of Darkness|Asia : 14 KanG2 3<br>KanG2 Step Mission Edit|https://youtu.be/VYVhs5itqno?t=241
