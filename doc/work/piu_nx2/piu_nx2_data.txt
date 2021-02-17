@@ -15,23 +15,23 @@ Arcade Station|25 Charts|_H
 햇살 좋은날 (Shiny Day)|LightMap|
 후회 (Compunction)|LightMap|
 Caprice Of Otada|LightMap|
-Energizer|Normal|
-Energizer|Hard|https://www.youtube.com/watch?v=gb_vhm2UB7A&ab_channel=CrsPIUDDR
-Energizer|Crazy|https://www.youtube.com/watch?v=HKwyrXRfDI8&ab_channel=AlexDiener
-Energizer|Freestyle|https://www.youtube.com/watch?v=Q5vArttEhZo&ab_channel=MeChrisLee
-Energizer|Nightmare|https://www.youtube.com/watch?v=BBn8cgZBTZM&ab_channel=CrsPIUDDR
+Energizer|Normal|https://youtu.be/5JfwlnZXMBw
+Energizer|Hard|https://youtu.be/5JfwlnZXMBw
+Energizer|Crazy|https://youtu.be/HfmqltXA0lE
+Energizer|Freestyle|https://youtu.be/HMH_7bJvDCg
+Energizer|Nightmare|https://youtu.be/J_U9u7MvWD0
 Energizer|LightMap|
-Faster Z|Normal|
-Faster Z|Hard|https://www.youtube.com/watch?v=mNOxxThKLhY&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-Faster Z|Crazy|https://www.youtube.com/watch?v=qaX7DCvwwYI&t=29s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
+Faster Z|Normal|https://youtu.be/WP2FzEvKEkI
+Faster Z|Hard|https://youtu.be/WP2FzEvKEkI
+Faster Z|Crazy|https://youtu.be/Ok7zruVo3Ik
 Faster Z|Freestyle|https://youtu.be/1Y8WM2zXxNE
 Faster Z|Nightmare|https://youtu.be/Bj7Z6lRSVyE
 Faster Z|LightMap|
-Feel The Soul|Normal|
-Feel The Soul|Hard|
-Feel The Soul|Crazy|https://youtu.be/f8rrZgeaShI
-Feel The Soul|Freestyle|
-Feel The Soul|Nightmare|https://youtu.be/PrN0PDbhmGk
+Feel The Soul|Normal|https://youtu.be/23GxcBZI_BU
+Feel The Soul|Hard|https://youtu.be/23GxcBZI_BU
+Feel The Soul|Crazy|https://youtu.be/MOb71p1cCuU
+Feel The Soul|Freestyle|https://youtu.be/lPJf5_VzKgA
+Feel The Soul|Nightmare|https://youtu.be/CAwpiYoTpz0
 Feel The Soul|LightMap|
 Special Zone / Another|15 Charts|_H
 그래서 (So)|Another Normal|
