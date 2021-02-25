@@ -77,10 +77,10 @@ ZERO K-Hiphop Remix|Rootinia : * Overdeath|https://youtu.be/87FuvhoEjxw
 Money Fingers|Rootinia : Mon*ey|https://youtu.be/kGZX2xGnovo
 X-Treme|Rootinia : Alteration|https://youtu.be/RNB9EosEZ18
 Shake It Up|Rootinia : Routine 5|https://youtu.be/tk1EXqorPts
-Pumptris Quattro|Rootinia : Quattro #1|https://youtu.be/R6DG21Lfrfo
-Pumptris Quattro|Rootinia : Quattro #2|https://youtu.be/spfYJR1V1TU
-Pumptris Quattro|Rootinia : Quattro #3|https://youtu.be/jx7i8jkun2U
-Pumptris Quattro|Rootinia : Quattro #4|https://youtu.be/poVXBn-5PVw
+Pumptris Quattro|Rootinia : Quattro #0|https://youtu.be/R6DG21Lfrfo
+Pumptris Quattro|Rootinia : Quattro #1|https://youtu.be/spfYJR1V1TU
+Pumptris Quattro|Rootinia : Quattro #2|https://youtu.be/jx7i8jkun2U
+Pumptris Quattro|Rootinia : Quattro #3|https://youtu.be/poVXBn-5PVw
 NX2 K-Hiphop Remix|Rootinia : Mix Up 2|https://youtu.be/y4QgYMNjNKI
 Final Audition|Rootinia : 1st Audition|https://youtu.be/ppPsh8QvTKI
 Turkey March|Rootinia : Mirror|https://youtu.be/jVuv2yW74Do
@@ -116,15 +116,15 @@ Energizer|Shantomia : Thrill|https://youtu.be/bqG5O7nKXM8
 Higgledy Piggledy|Shantomia : Swan 2|https://youtu.be/OHerDOfRMY8
 Le Code De Bonne Conduite|Shantomia : SG|https://youtu.be/0J8ev_z128I
 Lexy 1Tym Remix|Shantomia : Mix Up 4|https://youtu.be/-mmq-U_5h18
-Deux Remix|Shantomia : Fork of a Road 00 Ver.|https://youtu.be/D41eW3y38HA
-Deux Remix|Shantomia : Fork of a Road 10 Ver.|https://youtu.be/gIWW-wKz1SY
-Deux Remix|Shantomia : Fork of a Road 01 Ver.|https://youtu.be/5yhNwLXYPaU
-Deux Remix|Shantomia : Fork of a Road 11 Ver.|https://youtu.be/BKQCs56VEaI
+Deux Remix|Shantomia : Fork of a Road #00|https://youtu.be/D41eW3y38HA
+Deux Remix|Shantomia : Fork of a Road #10|https://youtu.be/gIWW-wKz1SY
+Deux Remix|Shantomia : Fork of a Road #01|https://youtu.be/5yhNwLXYPaU
+Deux Remix|Shantomia : Fork of a Road #11|https://youtu.be/BKQCs56VEaI
 Enter The Dragon|Shantomia : Aqua Blue|https://youtu.be/K9k2o5vp0uk
 내게 남은 사랑을 다 줄께 (I'll Give You All My Love) Fullver.|Shantomia : * J. K. D.|https://youtu.be/4y8WJ8mn9SA
 소방관 아저씨 (Mr. Fire Fighter)|Shantomia : Suddenly Appear 2|https://youtu.be/N3FD8Bpd0Zk
-Essa Maneira|Shantomia : Fork of a Road 2 Groove Ver.|https://youtu.be/Lyzihf4V-KA
-Essa Maneira|Shantomia : Fork of a Road 2 Wild Ver.|https://youtu.be/sfdoTjb4tCE
+Essa Maneira|Shantomia : Fork of a Road 2 #Groove|https://youtu.be/Lyzihf4V-KA
+Essa Maneira|Shantomia : Fork of a Road 2 #Wild|https://youtu.be/sfdoTjb4tCE
 Funky Tonight|Shantomia : Ghost 2|https://youtu.be/VbQyEig-ImE
 Jam O Beat|Shantomia : B-O-Beat|https://youtu.be/XXEvA-y7KHU
 흐린 기억속의 그대 (U Inside My Dim Memory) Fullver.|Shantomia : [ Castle 2 ]|https://youtu.be/RSbcKFue56o
@@ -139,29 +139,30 @@ Moonlight|Phantomia : MX Style|
 Phantom|Phantomia : Non-Powerful 3|
 Beethoven Virus|Phantomia : Routine 10|
 내맘이야 (It's My Business)|Phantomia : [ Necropolis ]|
-소방관 아저씨 (Mr. Fire Fighter) Fullver.|Mirtain : Fire Fighting|https://youtu.be/qOwat9H4PJM
-증오 (Hatred)|Mirtain : Magma|
-가 (Go)|Mirtain : Memorial Service|
-HOT뜨거 (HOT)|Mirtain : Bomb Beat|
-Witch Doctor|Mirtain : Hot Trill|https://www.youtube.com/watch?v=L3YxODngmso&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-종점 보관소 (Terminal Depository)|Mirtain : BxB|
-투우사의 노래 (Bullfighter's Song)|Mirtain : Bullfighter S|
-애송이 (Greenhorn)|Mirtain : Dead End|https://www.youtube.com/watch?v=kKz6IPB4M6s&ab_channel=%E3%81%99%E3%83%BC
-Get Up!|Mirtain : Set the Alarm|
-Dr. M|Mirtain : The Left Foot 2|
-Mr. Larpus|Mirtain : Born of Earth|https://www.youtube.com/watch?v=8Kqdk_SdwLU&ab_channel=SebValentine
-A. U Ready? Fullver.|Mirtain : A.U.NE?|
-아주 오래된 연인들 (Very Old Couples) Fullver.|Mirtain : Heart's Gone|
+소방관 아저씨 (Mr. Fire Fighter) Fullver.|Mirtain : Fire Fighting|https://youtu.be/AVZgugjFv-U
+증오 (Hatred)|Mirtain : Magma|https://youtu.be/OqG-2m1oFhc
+가 (Go)|Mirtain : Memorial Service|https://youtu.be/2lqaxZha-qk
+HOT뜨거 (HOT)|Mirtain : Bomb Beat|https://youtu.be/mGxkJ9xE5WM
+Witch Doctor|Mirtain : Hot Trill|https://youtu.be/DPB5iVPitoc
+종점 보관소 (Terminal Depository)|Mirtain : BxB|https://youtu.be/Wx7_XVlIFw8
+투우사의 노래 (Bullfighter's Song)|Mirtain : Bullfighter S|https://youtu.be/WcL0PcE3-rk
+애송이 (Greenhorn)|Mirtain : Dead End|https://youtu.be/nT1SkZf2A-g
+Get Up!|Mirtain : Set the Alarm|https://youtu.be/AdnLa6jSRTY
+Dr. M|Mirtain : The Left Foot 2|https://youtu.be/EhUMAFmc9zo
+Mr. Larpus|Mirtain : Born of Earth|https://youtu.be/GTD3hhp1ZFs
+A. U Ready? Fullver.|Mirtain : R.U.NE?|https://youtu.be/m3rRC1X3ta0
+아주 오래된 연인들 (Very Old Couples) Fullver.|Mirtain : Heart's Gone|https://youtu.be/EwplGcaft-U
 Final Audition 3, Chimera|Mirtain : * Yahpp|https://www.youtube.com/watch?v=26XkqBH2LHM&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
-불놀이야 (Fire Game)|Mirtain : Meteor|
-종점 보관소 (Terminal Depository)|Mirtain : Life G|
-햇살 좋은 날 (Shiny Day)|Mirtain : Sunlight|
-소용돌이 (A Maelstrom)|Mirtain : Armageddon|
-넌 내게 반했어 (You Fall in Me) Fullver.|Mirtain : * Ehwa|
-무혼(武魂) 2 (Solitary 2)|Mirtain : [ Mir ]|
-Turkey March|Mirtain : Magma 2|
-서커스 매직 유랑단 (Circus Magic)|Mirtain : Life G 2|
-빨개송! (Red Song!)|Mirtain : Red!|https://www.youtube.com/watch?v=Nw0sXDA4LqE&ab_channel=MoreFlesh
+불놀이야 (Fire Game)|Mirtain : Meteor #Normal|https://youtu.be/LVbOkPjSKAk
+불놀이야 (Fire Game)|Mirtain : Meteor #Blank|https://youtu.be/F1yWGQZGc1c
+종점 보관소 (Terminal Depository)|Mirtain : Life G|https://youtu.be/hTbzQHYzza4
+햇살 좋은 날 (Shiny Day)|Mirtain : Sunlight|https://youtu.be/jMwA18oH0DU
+소용돌이 (A Maelstrom)|Mirtain : Armageddon|https://youtu.be/79NV1cuo7YM
+넌 내게 반했어 (You Fall in Me) Fullver.|Mirtain : * Ehwa|https://youtu.be/wErb8g6l6P8
+무혼(武魂) 2 (Solitary 2)|Mirtain : [ Mir ]|https://youtu.be/IM2EkFKTwYw
+Turkey March|Mirtain : Magma 2|https://youtu.be/5VqPwP_g3VU
+서커스 매직 유랑단 (Circus Magic)|Mirtain : Life G 2|https://youtu.be/2brzPAwJp9s
+빨개송! (Red Song!)|Mirtain : Red!|https://youtu.be/7mPK-BmM3do
 Bust Back|Barharn : Preservation|
 소용돌이 (A Maelstrom)|Barharn : [ Whirlpool ]|
 Caprice of Otada|Barharn : Union|
