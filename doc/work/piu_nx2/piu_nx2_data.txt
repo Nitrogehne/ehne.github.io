@@ -51,7 +51,7 @@ Come To Me|Another Hard|https://youtu.be/c1ulgM1O05E
 Come To Me|Another Crazy|https://youtu.be/BWW2-uCde0c
 Come To Me|Another Nightmare|https://www.youtube.com/watch?v=8tj_Zc396R8&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Come To Me|Another LightMap|
-Hi Bi|Another Nightmare<br>Rune & Ehne(1%)|https://www.youtube.com/watch?v=IfJm-Pe_VRo&t=8s&ab_channel=MeChrisLee
+Hi Bi|Another Nightmare<br>Rune & Ehne|https://www.youtube.com/watch?v=IfJm-Pe_VRo&t=8s&ab_channel=MeChrisLee
 Special Zone / Remix|8 Charts|_H
 Banya-P Guitar Remix|Crazy|https://www.youtube.com/watch?v=_OyyM5WDMRA&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Banya-P Guitar Remix|Nightmare|https://www.youtube.com/watch?v=hxHXWe9fO4g&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
@@ -189,22 +189,28 @@ Final Audition 3|Harena : 3rd Audition|
 Chopstix|Harena : Avoid|https://youtu.be/shqw0S3q-XU
 X-Treme|Harena : Avoid 2|https://youtu.be/G6oyERpG9C0
 Miss S' Story|Harena : Miss S|https://youtu.be/MWIYr0hhk_s
-Papa Gonzales|Morigin : Congestion|
-Beat of The War 2|Morigin : Non-Powerful 7|
-애송이 (Greenhorn)|Morigin : Double Expansion|
-Starian|Morigin : S-Machine|
-Final Audition 2|Morigin : Converter|
+Papa Gonzales|Morigin : Congestion|https://youtu.be/tqCL-CFnplM
+Beat of The War 2|Morigin : Non-Powerful 7|https://youtu.be/sxmzjqVF4KQ
+애송이 (Greenhorn)|Morigin : Double Expansion|https://youtu.be/HCRT1ejsHi0
+Starian|Morigin : S-Machine|https://youtu.be/4y85RQ-bm20
+Final Audition 2|Morigin : Converter|https://youtu.be/aG7ygP7zNTk
 Chicago Clup Remix|Morigin : Born of Earth 4|
-N|Morigin : N 2|
-Dance Vibrations|Morigin : Resister 2|
-Groovin' Motion|Morigin : Separator|
-Come Back Home|Morigin : Paradox|
-Novarash Remix|Morigin : Item War|https://www.youtube.com/watch?v=3CDW_Z634DE&ab_channel=MoreFlesh
-Beat of the War|Morigin : Transducer|
-Lazenca Save Us|Morigin : Born of Earth 5|
-예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne|https://youtu.be/tUnwhLjr6TA
-Treme Vook of The War|Morigin : [ Factory ]|
-Hi Bi|Morigin : Arrange|
+N|Morigin : N 2|https://youtu.be/tAUUrhIWTQA
+Dance Vibrations|Morigin : Resister 2|https://youtu.be/hoR_WjriEfk
+Groovin' Motion|Morigin : Separator|https://youtu.be/s2bW1zSBK-g
+Come Back Home|Morigin : Paradox|https://youtu.be/ZG8dJQyOH6k
+Novarash Remix|Morigin : Item War|https://youtu.be/KM6oM414vAI
+Beat of the War|Morigin : Transducer|https://youtu.be/QTcrq5ckckM
+Lazenca Save Us|Morigin : Born of Earth 6|https://youtu.be/GITvAHWkQZY
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #Multi|https://youtu.be/tUnwhLjr6TA
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #1(2/9)|https://youtu.be/e8fNkX6ah_U?t=78
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #2(2/9)|https://youtu.be/Qay_IM4ss1E?t=77
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #3(1/9)|https://youtu.be/Qay_IM4ss1E?t=129
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #4(2/9)|https://youtu.be/h2UHZqvTyV4?t=128
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #5(1/9)|https://youtu.be/e8fNkX6ah_U?t=130
+예지몽 (Déjà Vu) Fullver.|Morigin : * Ehne #6(1/9)|https://youtu.be/zYe7y3Nf_LI?t=73
+Treme Vook of The War|Morigin : [ Factory ]|https://youtu.be/F0FM3CeYXEc
+Hi Bi|Morigin : Arrange|https://youtu.be/iofoT4KJ2oM
 N|Morigin : N|
 Witch Doctor|Cryomiston : Snow Witch|
 One Night|Cryomiston : White Night|
