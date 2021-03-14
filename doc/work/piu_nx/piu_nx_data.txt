@@ -1,99 +1,148 @@
 Arcade Station|39 Charts|_H
+
 사랑가 2006 (Love Song 2006)|Nightmare|https://youtu.be/8l1SI3Ql2yw
 사랑가 2006 (Love Song 2006)|LightMap|
+
 사랑스러워 (Lovely)|Nightmare|https://www.youtube.com/watch?v=8ZFY9E5Icz0&ab_channel=Turkeyslam
 사랑스러워 (Lovely)|LightMap|
+
 자유로와 (Free!)|Freestyle|
 자유로와 (Free!)|LightMap|
-종점 보관소 (Terminal Depository)|Crazy|https://www.youtube.com/watch?v=pbKzvGit1cI&ab_channel=Pineda%27sGames
-종점 보관소 (Terminal Depository)|Nightmare|https://www.youtube.com/watch?v=zXzRXvRG198&ab_channel=mentormin%EB%A9%98%ED%86%A8%EB%AF%BC
+
+종점 보관소 (Terminal Depository)|Crazy|https://youtu.be/B94ZwHypV70
+종점 보관소 (Terminal Depository)|Nightmare|https://youtu.be/h5_zUp_JEAE
 종점 보관소 (Terminal Depository)|LightMap|
+
 투우사의 노래 (Bullfighter's Song)|Hard|https://www.youtube.com/watch?v=lN4xMc3Lr4A&ab_channel=JUNTROLL
 투우사의 노래 (Bullfighter's Song)|Crazy|https://www.youtube.com/watch?v=Pn5YIQHP3ro&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 투우사의 노래 (Bullfighter's Song)|LightMap|
+
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Crazy|https://youtu.be/HQ5p8wm8fnQ?t=625
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|Freestyle|https://www.youtube.com/watch?v=UBEI7nZ_ISU&ab_channel=Turkeyslam
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|LightMap|
+
 흐린 기억속의 그대 (U Inside My Dim Memory)|Hard|https://www.youtube.com/watch?v=mZjz3l-CZEI&ab_channel=ArudoRLZ
 흐린 기억속의 그대 (U Inside My Dim Memory)|Crazy|https://youtu.be/Z5uAVyI4Cv8
 흐린 기억속의 그대 (U Inside My Dim Memory)|Nightmare|https://youtu.be/eCxxDICQBTs
 흐린 기억속의 그대 (U Inside My Dim Memory)|LightMap|
+
 Arch of Darkness|Normal|https://www.youtube.com/watch?v=2gENRCPPYPs&ab_channel=ArudoRLZ
 Arch of Darkness|Crazy|https://www.youtube.com/watch?v=WZGzTktwewo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Arch of Darkness|LightMap|
+
 Bust Back|Nightmare|https://www.youtube.com/watch?v=8whj2FdG-LA&ab_channel=Turkeyslam
 Bust Back|LightMap|
+
 Chimera|Crazy|https://www.youtube.com/watch?v=KE8wkWZ5p3s&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Chimera|Nightmare|https://www.youtube.com/watch?v=2enPVXnnqB4&ab_channel=%ED%94%BC%ED%8E%A8%EC%A6%88FEFEMZ
 Chimera|LightMap|
+
 Final Audition Episode 2-1|Normal|
 Final Audition Episode 2-1|Hard|
 Final Audition Episode 2-1|Crazy|
 Final Audition Episode 2-1|Freestyle|
 Final Audition Episode 2-1|Nightmare|
 Final Audition Episode 2-1|LightMap|
+
 Final Audition Episode 2-2|Normal|
 Final Audition Episode 2-2|Hard|
 Final Audition Episode 2-2|Crazy|https://www.youtube.com/watch?v=GT7YF2Y_VNo&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Final Audition Episode 2-2|Freestyle|
 Final Audition Episode 2-2|Nightmare|
 Final Audition Episode 2-2|LightMap|
+
 Fly|Hard|https://www.youtube.com/watch?v=OQ_eD-Kk40A&ab_channel=KanauruProductions
 Fly|LightMap|
+
 Go Back|Hard|https://www.youtube.com/watch?v=-ZuaAU0KJBo&ab_channel=Turkeyslam
 Go Back|Crazy|https://www.youtube.com/watch?v=rf-0t9V6wmU&ab_channel=FulvioTakami
 Go Back|Nightmare|https://www.youtube.com/watch?v=F0E_39u2XY0&ab_channel=Thumbsy
 Go Back|LightMap|
+
 Hold The Line|Nightmare|https://youtu.be/HQ5p8wm8fnQ?t=353
 Hold The Line|LightMap|
+
 One Night|Crazy|https://www.youtube.com/watch?v=A9D8WcxbVMA&ab_channel=bebupiu
 One Night|Nightmare|https://www.youtube.com/watch?v=DbITlkVSAcc&ab_channel=MeChrisLee
 One Night|LightMap|
+
 Snow Dream|Hard|https://www.youtube.com/watch?v=cDWiCexkP6k&ab_channel=Valius
 Snow Dream|LightMap|
+
 Witch Doctor #1|Crazy|https://www.youtube.com/watch?v=9UKIitjxZtU&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Witch Doctor #1|Nightmare|https://www.youtube.com/watch?v=z4knqppaCBQ&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 Witch Doctor #1|LightMap|
+
 We Goin' Fly Remix|Crazy|https://www.youtube.com/watch?v=wHUSRksg3tI&ab_channel=%EB%84%A4%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0NEVSISTER
 We Goin' Fly Remix|Nightmare|https://youtu.be/j_rh3T1u9s0
 We Goin' Fly Remix|LightMap|
+
 Special Station / Another|3 Charts|_H
+
 그녀는 피자를 좋아해 (She Likes Pizza)|Another Nightmare|https://www.youtube.com/watch?v=AQhMfDFC8nI&ab_channel=BOSS_PIUVNPumpItUpTeam
 그녀는 피자를 좋아해 (She Likes Pizza)|Another LightMap|
+
 Bee|Another Freestyle|https://www.youtube.com/watch?v=gm3V0axTYso&ab_channel=Turkeyslam
 Bee|Another LightMap|
+
 Shake It Up|Another Crazy|https://www.youtube.com/watch?v=zR9u2F6IJ_A&ab_channel=%EB%B0%80%EB%A6%AC%EC%95%84MILLIA
 Shake It Up|Another Nightmare|https://www.youtube.com/watch?v=xW6_s5xSLkI&ab_channel=BOSS_PIUVNPumpItUpTeam
 Shake It Up|Another LightMap|
+
 World Tour|102 Missions|_H
+
 영원한 사랑|Asia : 01 Seoul 1|https://youtu.be/V8xGSBff2fM
+
 Beat Of The War 2|Asia : 02 Hanoi 1|https://youtu.be/UmZVX_uA80c
+
 One Night|Asia : 04 Hongcong 1|https://youtu.be/YFAidGR3It4
 불놀이야 (Fire Game)|Asia : 04 Hongcong 2|https://youtu.be/YFAidGR3It4?t=117
 경고 (Don't Bother Me)|Asia : 04 Hongcong 3<br>Freestyle Mission Edit|https://youtu.be/YFAidGR3It4?t=246
+
 Fianl Audition Episode 2-2|Asia : 05 Hanoi 2|https://youtu.be/UmZVX_uA80c?t=137
+
 Watch Out|Asia : 06 Taipei 2|https://youtu.be/YlbpeAPjGZI?t=122
 긴급상황|Asia : 06 Taipei 3|https://youtu.be/YlbpeAPjGZI?t=239
+
 Hybs|Asia : 07 Kualalumpur 1|https://youtu.be/_FmQ6MflA1o
 Chicago Club Remix|Asia : 07 Kualalumpur 2|https://youtu.be/_FmQ6MflA1o?t=123
+
 님과 함께|Asia : 08 Singgapore 1|https://youtu.be/RClr8nW28x4
 긴급상황|Asia : 08 Singgapore 2|https://youtu.be/RClr8nW28x4?t=115
 One Night|Asia : 08 Singgapore 3|https://youtu.be/RClr8nW28x4?t=235
+
 사랑스러워|Asia : 09 Tokyo 3|https://youtu.be/JDlcC28x6O0?t=239
+
 Bust Back|Asia : 11 Pyongyang 1|https://youtu.be/PioIxuC3mMY
+
 We Goin' Fly Remix|Asia : 14 KanG2 2|https://youtu.be/VYVhs5itqno?t=118
 Arch Of Darkness|Asia : 14 KanG2 3<br>KanG2 Step Mission Edit|https://youtu.be/VYVhs5itqno?t=241
+
 Arch Of Darkness |Asia : 15 Yasangma 1<br>Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q
 Witch Doctor #1|Asia : 15 Yasangma 2<br>Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q?t=123
 Final Audition|Asia : 15 Yasangma 3<br>Another Crazy Mission Edit|https://youtu.be/y49hzk2TT9Q?t=242
+
 Beat Of The War|Asia : 16 J.K.D 1|https://youtu.be/n-lFSTxx4SA
 Beat Of The War 2|Asia : 16 J.K.D 2|https://youtu.be/n-lFSTxx4SA?t=118
 Beat Of The War 2 DnG Ver.|Asia : 16 J.K.D 3|https://youtu.be/n-lFSTxx4SA?t=253
+
 Free Style |N. America : 03 Sansalvador 1|https://youtu.be/p3_wh1PWAjg
 N|N. America : 03 Sansalvador 2|https://youtu.be/p3_wh1PWAjg?t=119
 
+Csikos Post|N. America : 05 Ottawa 1|https://youtu.be/xO6_mBRFbLQ
+Chimera|N. America : 05 Ottawa 2|https://youtu.be/xO6_mBRFbLQ?t=125
+Dr. M|N. America : 05 Ottawa 3|https://youtu.be/xO6_mBRFbLQ?t=253
+
+Final Audition|N. America : 06 Waikiki 1|https://youtu.be/7Pz7EaY1VK0
+Final Audition 2|N. America : 06 Waikiki 2|https://youtu.be/7Pz7EaY1VK0?t=120
+Final Audition 3|N. America : 06 Waikiki 3|https://youtu.be/7Pz7EaY1VK0?t=237
+
+폭풍 (Typhoon)|N. America : 08 Sanjose 1|https://youtu.be/SKyMTiEDKkw
+폭풍의 언덕 (Wuthering Heights)|N. America : 08 Sanjose 2|https://youtu.be/SKyMTiEDKkw?t=128
+Storm|N. America : 08 Sanjose 3|https://youtu.be/SKyMTiEDKkw?t=240
+
 Phantom|S05 Lapaz Stage 3|https://www.youtube.com/watch?v=6MPZCQ5i3do&ab_channel=JboyAAA
-Chimera|N05 Ottawa Stage 2|https://www.youtube.com/watch?v=DTcXXc9GSEE&ab_channel=s34nVideos
+
 현진영 Go 진영 Go (Hyun Jin Young Go Jin Young Go)|S06 Quito Stage 3|https://www.youtube.com/watch?v=9cmdT6lth2M&t=11s&ab_channel=JboyAAA
 Loner|Europe-07 Athens-1|https://www.youtube.com/watch?v=4rADg-NJnpc&ab_channel=s34nVideos
 Lazenca Save Us|Europe-07 Athens-2|https://www.youtube.com/watch?v=QOPqsqgfebc&ab_channel=s34nVideos
@@ -109,15 +158,9 @@ Hold The Line|12-2|
 사랑가 2006|16-1|
 연가|16-2|
 Conga|16-3|
-Csikos Post|18-1|
-Chimera|18-2|
-Dr. M|18-3|
 Phantom|19-3|
 Essa Maneira|20-2|
 Power Of Dream|20-3|
-Final Audition|22-1|
-Final Audition 2|22-2|
-Final Audition 3|22-3|
 발자국|23-1|
 자유로와|23-2|
 현진영 Go 진영 Go|23-3|
@@ -125,9 +168,6 @@ HOT 뜨거|27-2|
 소방관 아저씨|27-3|
 경고|28-1|
 Lazenca Save Us|28-2|
-폭풍|30-1|
-폭풍의 언덕|30-2|
-Storm|30-3|
 나를 돌아봐|31-1|
 돌아와|31-2|
 Com' Back|31-3|
